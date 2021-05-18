@@ -1,2 +1,10 @@
+5/18/2021
+No changes from the last week. The quantitative models remain risk-on given lack of major activity on economic, technicals and valuation fronts. 
+The major equity indexes appear to have been range bound which continue to align with our thesis of neutral positioning across.
+The Value Indexes in Small Caps and Non-US, as well as S&P 500, look more attractive on relative basis through the lens of a composite score on Technicals. Valuation, Volatility, Quality and Growth. 
+This measure is outside of the scope of the Regime models and serves as a reasonable descriptor of the current state. 
+The other descriptor of relative attractiveness of equities vs bonds, the Fed Model improved a bit over the past week amid weaker equity prices and strong earnings season.
+
 5/10/2021
-Quantitative signals across model remain supportive of equities. However, given a slew of uncertainties related to the path of COVID recovery, supply chain inflationary pressures, and impact of fiscal stimulus are all causes of concern and warrant a pause in pro-cyclical view. The PM view on equities is neutral across the board which implies holding equity allocation at or close to policy weights.
+Quantitative signals across model remain supportive of equities. However, given a slew of uncertainties related to the path of COVID recovery, supply chain inflationary pressures, and impact of fiscal stimulus are all causes of concern and warrant a pause in pro-cyclical view. 
+The PM view on equities is neutral across the board which implies holding equity allocation at or close to policy weights.
