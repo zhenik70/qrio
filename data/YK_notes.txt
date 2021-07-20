@@ -1,3 +1,16 @@
+7/20/2021
+
+Despite recent voaltility US equity markets remained with trading bandds established this year. S&P stayed withing an upward sloping channel  while Russell 2000 continues moving sideways having tested support at 2130sh.
+EAFE and EM have been going sideways for a while and don't look healthy to me, especialy EAFE.
+The models have also reflected recent range bound turbulance. Small vs Large swithched to preferrence for large and US regime model went down two points: correlations within stocks have been increasing and
+our currency proxy for global growth (AUD/CHF) is probably reflecting uneven recovery and growth concerns. The currency signal also impacted EAFE and EM scores as weaker AUD/CHF coinsided with stronger USD.
+The Eurozone Systemic Stress Indicator have been increasing (negative dynamic) and further impacted the EAFE regime score.
+It is no suprice that Quality style have been gaining in relative strenght given hightened volatility.
+About 10% of the S&P 500 constituents have reported earnings thusfar. The numbers are solid in both Growth and Positive Surprices.
+Economic data still points to continuing recovery although concern are mounting (in narrative) of slowing global economic growth amid Covid (variant D) developments.
+
+
+
 6/28/2021
 
 The views remain unchanged. 
@@ -51,7 +64,7 @@ US personal spending rose at a moderate pace following stimulus fueled surge and
 No changes from last week.
 
 Economic releases over the past week continue to support robust post-pandemic recovery. Both Markit US Manufacturing and Services PMIs point to economic growth with Services PMI beating expectations (70.1 vs 64.3).
-Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As Iâ€™ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
+Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As I’ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
 The market leadership has been broad, despite shifting back and forth between cyclical, Growth, and sometime defensives.  It remained a good environment for active managers.
 
 5/18/2021
