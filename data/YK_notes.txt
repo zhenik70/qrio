@@ -1,3 +1,13 @@
+8/31/2021
+
+No changes to the equity views.
+The economic data (especially consumer related) has been coming in a bit softer vs expectation, but still points to stable/stabilizing economy. Supply challenges in auto related semiconductors has been straining the sector.
+Major regional equity indexes remain range-bound (and going sideways) while US Large Cap continued upward movement amid low(er) volatility. 
+The quant scores for the US, EM, and US Small cap regime models have not changed. EAFE improved a bit as Systemic Stress Indicator recovered. The currency and technical attractiveness vs US are still negative. The Value stocks in EAFE and EM seemed to be more attractive relative to the US Value.
+Dovish Fed and worries about reduction in stimulus and Covid developments continued driving a game of tag between the reflation trade (Value) and longer-duration/organic Growth Quality stocks. From a relative strength perspective Quality have been making consistent gains (see Equity Factors > Relative Strength).
+Equity Premia (Fed Model) remains positive.
+The narrative has been increasingly calling for a correction in US equities by the year-end, which is not surprising given a seven-months of market gains.
+
 8/16/2021
 No changes to the views.
 Consumer related economic data has been coming in a bit softer over the week with consumer sentiment and retail sales lagging expectations. At the same time, PPI and manufacturing indicators remained strong. Covid Delta variant and higher prices are reasonable drivers explaining hesitant consumer. The consumer financial health remains robust with reasonable growth in credit and low delinquencies. 
@@ -99,7 +109,7 @@ US personal spending rose at a moderate pace following stimulus fueled surge and
 No changes from last week.
 
 Economic releases over the past week continue to support robust post-pandemic recovery. Both Markit US Manufacturing and Services PMIs point to economic growth with Services PMI beating expectations (70.1 vs 64.3).
-Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As Iâ€™ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
+Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As I’ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
 The market leadership has been broad, despite shifting back and forth between cyclical, Growth, and sometime defensives.  It remained a good environment for active managers.
 
 5/18/2021
