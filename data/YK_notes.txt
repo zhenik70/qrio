@@ -1,3 +1,12 @@
+11/2/2021
+
+No changes to the views.
+Quantitative models remain as of last week. US model went up a point amid improvement in market breadth.
+Economic data releases over the last week remain constructive of economic growth. Consumer confidence/sentiment beat expectations while manufacturing numbers and retail inventories came in softer than expected, perhaps a reflection of continuous supply chain woes. 
+Supply chain difficulties and labor shortages have been a theme during the 3Q earnings. Despite these headwinds, 68% of the companies reported thus far (324/500) beat on sales and 82% on earnings. Profit margins in aggregate improved as well, indicating that companies are managing labor and supply inflation well and are able to pass costs to customers. The US small companies are showing similar trend, although only a third have reported.
+The Baltic Dry index is down almost 40% from September high. It could be a sign that shipping industry is beginning to work through its challenges.
+
+
 10/19/2021
 
 No changes to the views.
@@ -18,8 +27,8 @@ The supply driven inflation amid energy crisis, continuous shipping strains, imp
 No changes to quantitative, fundamental, or technical views.
 Although quantitative signals remained mostly the same there was a weakness in technical factors which typically coincide with increased volatility: Increased correlations (the signal turned risk-off) and declining market breadth (trending lower but signal is still positive). Valuation spreads widened but are still a long way from flipping the signal. 
 Small cap model turned lower driven by weakness in commodities.
-Stronger US dollar and weaker AUD (most likely a reflection of weaker commodities amid uncertainties over Chinaâ€™s economic growth) pushed currency composites in EM and EAFE models into risk-off mode.
-The narrative (especially yesterday) was attributing the sell-off to the possible contagion risks from Evergrande solvency situation and general crackdown by Chinese authorities on real-estate sector and this weekâ€™s Fed meeting. Given recent economic data (weaker than expected inflation and slowing consumer) it is unlikely that the Fed will deliver any surprises. Financial conditions in the US and credit spreads have not been showing signs of stress either. Financial conditions in the Euro- Zone turned lower last week.
+Stronger US dollar and weaker AUD (most likely a reflection of weaker commodities amid uncertainties over China’s economic growth) pushed currency composites in EM and EAFE models into risk-off mode.
+The narrative (especially yesterday) was attributing the sell-off to the possible contagion risks from Evergrande solvency situation and general crackdown by Chinese authorities on real-estate sector and this week’s Fed meeting. Given recent economic data (weaker than expected inflation and slowing consumer) it is unlikely that the Fed will deliver any surprises. Financial conditions in the US and credit spreads have not been showing signs of stress either. Financial conditions in the Euro- Zone turned lower last week.
 We have been discussing a possibility of technical correction over the last few weeks and recent market weakness looks just like one. None of the support/resistance levels which have been set this year were broken on US large, small, and EAFE equity indexes. EM looks challenging.
 
 9/14/2021
@@ -137,7 +146,7 @@ US personal spending rose at a moderate pace following stimulus fueled surge and
 No changes from last week.
 
 Economic releases over the past week continue to support robust post-pandemic recovery. Both Markit US Manufacturing and Services PMIs point to economic growth with Services PMI beating expectations (70.1 vs 64.3).
-Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As Iâ€™ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
+Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As I’ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
 The market leadership has been broad, despite shifting back and forth between cyclical, Growth, and sometime defensives.  It remained a good environment for active managers.
 
 5/18/2021
