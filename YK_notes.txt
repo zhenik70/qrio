@@ -1,0 +1,205 @@
+12/14/2021
+
+Markets have been struggling to find a direction amid anticipation of the Fed’s narrative on monetary tightening as inflation readings remain elevated. While latest CPI data came in mostly in line with expectations, PPI readings came in significantly higher. Labor costs continued to accelerate above expectation while commodity indexes have been declining since the end of October. Consumer sentiment and Small Business optimism remain positive.
+Negative Covid headlines continue to dominate the narrative as US is experiencing an uptick in cases and hospitalizations following Thanksgiving Holiday. The trend is regional and follows similar experience post major holidays. Details on Omicron’s severity remains elusive but current vaccines and boosters do offer high degree of protection against serious complications.
+The regime model dynamics are reflective of the range bound movements amid volatility in equity prices and some fundamental data.
+The US model is now 5/12 (neutral reading) as market breadth and credit spreads dynamics caught up from the past few weeks of volatility.
+The Small cap model moved back and forth between positive and negative reading following similar behavior in commodity prices and rates. The Small caps remain range bound but are in a lower ranking of the Relative Strength model. It is not unreasonable to assume that they can bounce back quite strongly amid reversal in sentiment, I want to acknowledge quantitative readings and move the view to Neutral.
+The Non-US views remain intact.
+ 
+12/7/2021
+There were changes to the quantitative scores following a period of volatility over the last two weeks. As the perceived catalyst(s) behind market uncertainty may have become more accepted and given a strong market bounce over the last few days we should be careful in interpreting the scores as they might bounce back relatively quickly.  
+Information about Omicron is still limited and supports what we’ve heard when the news came out: the symptoms are mild, and hospitalizations are not going up. If this holds. So might the recovery rally.
+US Large Cap: the score went down and is now 7/12
+Cross-sectional correlation went up and high-yield spreads increased. Both typical risk-off behaviors. Both data points have been moving lower amid improved market sentiment.
+US Small Cap: the model switched to favoring Large Caps.
+Commodity prices and treasury yields went lower amid potential impact of polices related to Covid on economic growth. Both variables have been improving along with market sentiment.
+No changes to EAFE and EM views. However, the EM model technical and volatility composite weakened amid recent volatility.
+The Value/Growth dynamic have been very volatile without a developing trend…in my view as of yet.
+
+11/30/2021
+No changes to the views.
+Increased uncertainty following discovery of omicron variant and lack of details on the virus pushed volatility higher across the markets.
+The increase in volatility pushed Volatility composite scores lower for the US (now 9/12) and EAFE (now 0/9).
+The quantitative model still favors US Small Caps vs US Large Caps but Small Caps went down in the Relative Strength ranking from 3/6 to 5/6 amid a Covid induced sell-off. 
+Quality and Low Volatility equity factors outperformed amid market turbulence.
+Uncertainty surrounding Omicron will most likely drive the sentiment/volatility in the upcoming weeks till more data is available.
+Fed’s comments today are not helping, very unfortunate timing.
+
+11/16/2021
+
+No changes to the views.
+Quantitative models remain as of last week. 
+Economic data releases were mixed. CPI and PPI numbers came in higher than expected and U. of Michigan sentiment index dipped. At the same time, retail sales and industrial production edged up and beat expectations. Mortgage delinquencies decreased from prior month while Walmart reported solid sales growth and raised forecast. Gross margins though were under pressure amid supply-chain snarl and rising inflation. Home Depot (another consumer bellwether) posted solid sales growths supported by the “hot” housing market.
+The Baltic Dry index remained lower (at almost 52% from September high) while Shipping Container cost were moving sideways since the end of August. It could be a sign that shipping industry is beginning to work through its challenges.
+
+11/9/2021
+
+No changes to the views.
+Quantitative models remain as of last week. US model went up another point (11/12) amid improvement in market technicals.
+Economic data releases over the last week remain constructive of economic growth and came in better than expected. ADP Employment change, ISM Services, Factory orders came in stronger than expected while PPI were in-line with forecasts.
+The Baltic Dry index is now down almost 52% from September high. It could be a sign that shipping industry is beginning to work through its challenges.
+68% of the companies reported thus far (455/500) beat on sales and 82% on earnings. So far: ~16% y/y revenue growth vs ~14% estimate and ~13.5% net income margin vs pre-Covid ~12% (per JPM)
+
+11/2/2021
+
+No changes to the views.
+Quantitative models remain as of last week. US model went up a point amid improvement in market breadth.
+Economic data releases over the last week remain constructive of economic growth. Consumer confidence/sentiment beat expectations while manufacturing numbers and retail inventories came in softer than expected, perhaps a reflection of continuous supply chain woes. 
+Supply chain difficulties and labor shortages have been a theme during the 3Q earnings. Despite these headwinds, 68% of the companies reported thus far (324/500) beat on sales and 82% on earnings. Profit margins in aggregate improved as well, indicating that companies are managing labor and supply inflation well and are able to pass costs to customers. The US small companies are showing similar trend, although only a third have reported.
+The Baltic Dry index is down almost 40% from September high. It could be a sign that shipping industry is beginning to work through its challenges.
+
+
+10/19/2021
+
+No changes to the views.
+
+10/5/2021-10/11/2021
+
+The Small Cap model turned positive amid strong commodity markets. 
+The US model and EM models remain risk-on while EAFE went down a notch to 3/9 as financial conditions composite moved lower. 
+Technical indicators within the US model have been moving around with recent volatility. The market breadth indicator turned negative following recent negative streak while cross-sectional correlation decreased (positive signal) indicating that the sell-off was not broad (at least in magnitude) and there were winners and losers. 
+Growth stocks were hit the hardest amid perceived negative impact of higher interest rates on longer duration equities. Value and Utilities did best as energy crisis drove both sectors higher.
+Stronger USD and weaker AUD (although it has been improving with firming commodity prices) remade a headwind for EAFE and EM.
+Despite the headlines, economic indicators have been coming in supportive of economic growth. Both Markit and ISM PMI Composite indices have come in at or above expectations and remain above 50, U of Michigan Sentiment indicators, GDP QoQ beat estimated as well. The supply chain constraints are now seen as extending into 2022 and the 3Q earnings will be a check of corporate profitability. The balance sheet strength for both corporates and consumers remain strong. 
+The supply driven inflation amid energy crisis, continuous shipping strains, impact of Covid polices, and labor shortage remain headwinds to the economy and the markets. The corporate earnings season will provide more clarity into impact on profitability and growth outlook.
+
+
+9/21/2021
+
+No changes to quantitative, fundamental, or technical views.
+Although quantitative signals remained mostly the same there was a weakness in technical factors which typically coincide with increased volatility: Increased correlations (the signal turned risk-off) and declining market breadth (trending lower but signal is still positive). Valuation spreads widened but are still a long way from flipping the signal. 
+Small cap model turned lower driven by weakness in commodities.
+Stronger US dollar and weaker AUD (most likely a reflection of weaker commodities amid uncertainties over China’s economic growth) pushed currency composites in EM and EAFE models into risk-off mode.
+The narrative (especially yesterday) was attributing the sell-off to the possible contagion risks from Evergrande solvency situation and general crackdown by Chinese authorities on real-estate sector and this week’s Fed meeting. Given recent economic data (weaker than expected inflation and slowing consumer) it is unlikely that the Fed will deliver any surprises. Financial conditions in the US and credit spreads have not been showing signs of stress either. Financial conditions in the Euro- Zone turned lower last week.
+We have been discussing a possibility of technical correction over the last few weeks and recent market weakness looks just like one. None of the support/resistance levels which have been set this year were broken on US large, small, and EAFE equity indexes. EM looks challenging.
+
+9/14/2021
+
+No changes to quantitative, fundamental, or technical views.
+
+8/31/2021
+
+No changes to the equity views.
+The economic data (especially consumer related) has been coming in a bit softer vs expectation, but still points to stable/stabilizing economy. Supply challenges in auto related semiconductors has been straining the sector.
+Major regional equity indexes remain range-bound (and going sideways) while US Large Cap continued upward movement amid low(er) volatility. 
+The quant scores for the US, EM, and US Small cap regime models have not changed. EAFE improved a bit as Systemic Stress Indicator recovered. The currency and technical attractiveness vs US are still negative. The Value stocks in EAFE and EM seemed to be more attractive relative to the US Value.
+Dovish Fed and worries about reduction in stimulus and Covid developments continued driving a game of tag between the reflation trade (Value) and longer-duration/organic Growth Quality stocks. From a relative strength perspective Quality have been making consistent gains (see Equity Factors > Relative Strength).
+Equity Premia (Fed Model) remains positive.
+The narrative has been increasingly calling for a correction in US equities by the year-end, which is not surprising given a seven-months of market gains.
+
+8/16/2021
+No changes to the views.
+Consumer related economic data has been coming in a bit softer over the week with consumer sentiment and retail sales lagging expectations. At the same time, PPI and manufacturing indicators remained strong. Covid Delta variant and higher prices are reasonable drivers explaining hesitant consumer. The consumer financial health remains robust with reasonable growth in credit and low delinquencies. 
+US Large caps and EAFE posted modest gains while US Small caps and EMs declined. The USD edged higher. Oil was flat while Gold posted solid gains.
+My assessment of technicals remains the same: range bound.
+
+8/10/2021
+
+No changes to the views amid a very uneventful week.
+Economic data continues to provide a stable backdrop for equities which is evident in solid ISM & Markit PMIs (both services and manufacturing), durable goods orders, and consumer confidence and job openings.
+The equity premium (earnings yield) had been gradually improving since March lows as corporate earnings have been coming in stronger than expected (Fed Model chart).
+My assessment of technicals remains the same: range bound.
+S&P 500 is toying with resistance around 4400, Small Caps are stuck mid-range between 2130sh and 2330sh, and EAFE and EM are trending sideways as improving USD may have dampened their bounce off end-of July lows.
+Trading volumes have been lower (maybe seasonal) and Wall Street strategists are more optimistic about the second half of the year as Delta variant fears subside, inflation persists, and economic growth/recovery continues. 
+RS Models: REITs => US => LC => US SC => EAFE
+
+
+8/3/2021
+
+Fresh concerns about China technology clampdown, Delta variant, short-term volatility in oil and USD on a backdrop of solid corporate earnings and supportive economic data kept market range bound.
+Regime Models scores remained unchanged.
+Relative Strength: REITs>S&P500>EAFE>R2K  
+EAFE moved up a spot yesterday. A short-term improvement in EAFE momentum coincided with decline in USD. 
+
+7/26/2021
+
+The proverbial wall of worry is becoming thicker as regulatory pressure by Chinese government on certain domestic sectors has been added by financial press 
+to the drivers of market sentiment. Covid Delta variant remains on top of mind as it has been driving ebb and flow of government's responses.
+My assessment of technicals remains intact from the last week, except that EM index went through support level amid developments in China.
+Economic data over the last week came in without major surprises. Price increases in certain areas of the economy dampened demand (like home sales) which follows a basic economic theory of elasticity of demand.
+Corporate earnings have been coming in very strong and companies are raising forward guidance. Discussion of supply chain issues seemed to be a common thread underlying existing conditions.
+Currency composite in EAFE and EM models remained a headwind amid continuous strengthening of USD and weakness in AUD.
+The technicals are weaker in the US model as raising inter-stock correlations, declining (hovers around 50) market breadth, and increasing short-term volatility point to near-term stresses.
+
+
+7/20/2021
+
+Despite recent volatility US equity markets remained with trading bands established this year. S&P stayed withing an upward sloping channel while Russell 2000 continues moving sideways having tested support at 2130sh.
+EAFE and EM have been going sideways for a while and don't look healthy to me, especially EAFE.
+The models have also reflected recent range bound turbulence. Small vs Large switched to preference for large and US regime model went down two points: correlations within stocks have been increasing and
+our currency proxy for global growth (AUD/CHF) is probably reflecting uneven recovery and growth concerns. The currency signal also impacted EAFE and EM scores as weaker AUD/CHF coincided with stronger USD.
+The Eurozone Systemic Stress Indicator have been increasing (negative dynamic) and further impacted the EAFE regime score.
+It is no surprise that Quality style have been gaining in relative strength given heightened volatility.
+About 10% of the S&P 500 constituents have reported earnings thus far. The numbers are solid in both Growth and Positive Surprises.
+Economic data still points to continuing recovery although concern are mounting (in narrative) of slowing global economic growth amid Covid (variant D) developments.
+
+
+
+6/28/2021
+
+The views remain unchanged. 
+
+Economic data remains constructive without major surprises either way. The biggest standout was today's Conference Board Consumer Confidence which came in at 127.3 vs 119 forecast.
+Shortage of labor and supply chain issues continue to apply upward pressure on prices. The COVID Delta variant outbreaks may temper economic reopening and certain areas but unlikely 
+to have a major impact (at least given currently available information). The path to recovery from the pandemic seemed to be more curtain in the US vs the rest of the world.
+The US Small cap, EAFE, and EM indexes remain range-bound while S&P 500 broke through during the week amid low volatility and decline in market breadth.
+The equity premium over cash and bonds (Fed Model) remains attractive. 
+
+ 
+Relative Strength Ranking
+
+US Sml Cap -> REITS -> S&P 500
+
+US Factors: favors cyclical exposures: Sentiment -> Value -> Momentum (currently in procyclical names, mainly Energy). However, Quality have been gaining momentum of the last month.
+
+Regime Models
+
+US Large & Small caps are both in risk on. The Small Cap score, at this point, is only marginally favorable relative to LC.
+EM: The overall model is Risk-on. The concerns are mainly in the currency composite, as USD is getting stronger and attractiveness of commodity based currencies vs defensive one is losing momentum.
+EAFE: The overall model is Risk-on and the only possible areas of weakness are relative to the US, in currency and momentum terms.
+
+
+6/22/2021
+
+No changes from last weeks.
+
+While CPI, PPI, and export/import prices all came in slightly higher than expected, weekly earnings, retail sales, housing starts and building permits lagged expectations.
+The data still points to supply driven constrains amid COVID related disruptions. Despite a slight elevation in volatility over the last few day, equity indexes remain range-bound.
+Valuations remain elevated relative to historical averages but are still attractive via bonds (Fed Model). REITs moved into the first spot on the relative strength rank (US Small caps moved from #1 to #2) while
+Value and Sentiment (risk) remained in the first two spots in the US. A seasonal weakness in Small Caps paired with bumpy recovery in employment and increased short-term volatility support neutral stance in allocation to equities.
+
+6/8/2021
+
+
+No changes from last week.
+
+US personal spending rose at a moderate pace following stimulus fueled surge and the slowdown could have been reflective of faster inflation. All is still consistent with sustained economic growth. The ISM gauge of manufacturing activity and Markit US Services PMI improved in May amid stronger orders growth and opening of the economy. Increase in orders, along with manufacturing backlogs and longer delivery times indicate continuous supply chain difficulties and short supply of skilled labor.
+The US equity markets are at the upper level of the recent channels and MSCI EAFE has broken through. EAFE looks attractive on the technical level amid consistent short-mid-term momentum while still lagging the rest on relative strength longer term.
+Valuations remain elevated relative to historical averages but are still attractive via bonds (Fed Model).
+
+6/1/2021
+
+No changes from last week.
+
+US personal spending rose at a moderate pace following stimulus fueled surge and the slowdown could have been reflective of faster inflation. All is still consistent with sustained economic growth. The ISM gauge of manufacturing activity improved in May amid stronger orders growth. Increase in orders, along with manufacturing backlogs and longer delivery times indicate continuous supply chain difficulties and short supply of skilled labor.
+
+5/25/2021
+
+No changes from last week.
+
+Economic releases over the past week continue to support robust post-pandemic recovery. Both Markit US Manufacturing and Services PMIs point to economic growth with Services PMI beating expectations (70.1 vs 64.3).
+Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As I’ve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
+The market leadership has been broad, despite shifting back and forth between cyclical, Growth, and sometime defensives.  It remained a good environment for active managers.
+
+5/18/2021
+
+No changes from the last week. The quantitative models remain risk-on given lack of major activity on economic, technicals and valuation fronts. 
+The major equity indexes appear to have been range bound which continue to align with our thesis of neutral positioning across.
+The Value Indexes in Small Caps and Non-US, as well as S&P 500, look more attractive on relative basis through the lens of a composite score on Technicals. Valuation, Volatility, Quality and Growth. 
+This measure is outside of the scope of the Regime models and serves as a reasonable descriptor of the current state. 
+The other descriptor of relative attractiveness of equities vs bonds, the Fed Model improved a bit over the past week amid weaker equity prices and strong earnings season.
+
+5/10/2021
+Quantitative signals across model remain supportive of equities. However, given a slew of uncertainties related to the path of COVID recovery, supply chain inflationary pressures, and impact of fiscal stimulus are all causes of concern and warrant a pause in pro-cyclical view. 
+The PM view on equities is neutral across the board which implies holding equity allocation at or close to policy weights.
