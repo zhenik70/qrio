@@ -15,7 +15,7 @@ As I mentioned two weeks ago, the situation with Ukraine makes little sense to m
 
 Regime Models Quant Scores
 US Large Cap 5/12 Neutral 
-US Small Cap (vs Large) ñ still positive  
+US Small Cap (vs Large) ‚Äì still positive  
 EAFE negative 
 EM neutral
 Relative Strength: S&P 500 => REITs => EAFE (negative spread) => EM (negative spread) => R2k (negative spread)
@@ -33,7 +33,7 @@ The US GDP came in higher than expected 6.9% vs 5.5% with strong build up in ret
 
 Regime Models Quant Scores
 US Large Cap 5/12 Neutral 
-US Small Cap (vs Large) ñ still positive  
+US Small Cap (vs Large) ‚Äì still positive  
 EAFE negative 
 EM neutral
 Relative Strength: REITs => S&P 500 => EAFE (negative spread) => EM (negative spread) => R2k (negative spread)
@@ -43,7 +43,7 @@ Relative Strength: REITs => S&P 500 => EAFE (negative spread) => EM (negative sp
 1/25/2022
 
 Equity benchmarks are being substantially recalibrated as the economy heads into a new monetary-policy regime in the battle against the pandemic and surging inflation. On top of that, geo-political tensions are also contributing to pessimistic tone for investors. Fed is also in focus on whether policy makers will continue leaning into hawkish policy.
-Lending at the biggest US banks started to pick up to the highest level in about six months, perhaps another sign that consumers and business are starting to borrow. The question remains if borrowing activity is caused by improving growth sentiment or a ìrushî to borrow before rate hikes.
+Lending at the biggest US banks started to pick up to the highest level in about six months, perhaps another sign that consumers and business are starting to borrow. The question remains if borrowing activity is caused by improving growth sentiment or a ‚Äúrush‚Äù to borrow before rate hikes.
 Economic releases
 Markit PMIs came in below expectations but stayed slightly above 50. Conference Board Consumer Confidence index beat expectations. Richmond Fed Manufacturing Survey came in lower than expected 8 vs 14 but remains positive.
 Corporate Earnings
@@ -53,7 +53,7 @@ Many companies have been withholding forward guidance amid pandemic and policy c
 
 Regime Models
 US Large Cap 6/12 Neutral
-US Small Cap ñ still positive
+US Small Cap ‚Äì still positive
 	Downgrading the view to neutral on relative strength and technicals.	  
 EAFE and EM are both negative
 	Moving Non-US to neutral on better relative technicals. The fundamentals (valuation and growth potential) are looking better than US as well.
@@ -61,7 +61,7 @@ Relative Strength: REITs => S&P 500 => EAFE (negative spread) => EM (negative sp
 
 Technicals
 Seems like most of last week and yesterday was extremely erratic with sell-off starting later in the session (ETFs?) and dramatic 4-5% swing yesterday.
-Russell 2k broke through all support levels of the last year. Doesnít look like there is much till 1600. Nasdaq may find some support at 1300. S&P 500 has been holding so far. The EM and EAFE declines have been orderly with EAFE price action still range bound.
+Russell 2k broke through all support levels of the last year. Doesn‚Äôt look like there is much till 1600. Nasdaq may find some support at 1300. S&P 500 has been holding so far. The EM and EAFE declines have been orderly with EAFE price action still range bound.
 
 1/10/2022
 
@@ -72,8 +72,8 @@ The US regime model remains in the neutral territory (6/12). The Small Cap model
 
 12/14/2021
 
-Markets have been struggling to find a direction amid anticipation of the Fedís narrative on monetary tightening as inflation readings remain elevated. While latest CPI data came in mostly in line with expectations, PPI readings came in significantly higher. Labor costs continued to accelerate above expectation while commodity indexes have been declining since the end of October. Consumer sentiment and Small Business optimism remain positive.
-Negative Covid headlines continue to dominate the narrative as US is experiencing an uptick in cases and hospitalizations following Thanksgiving Holiday. The trend is regional and follows similar experience post major holidays. Details on Omicronís severity remains elusive but current vaccines and boosters do offer high degree of protection against serious complications.
+Markets have been struggling to find a direction amid anticipation of the Fed‚Äôs narrative on monetary tightening as inflation readings remain elevated. While latest CPI data came in mostly in line with expectations, PPI readings came in significantly higher. Labor costs continued to accelerate above expectation while commodity indexes have been declining since the end of October. Consumer sentiment and Small Business optimism remain positive.
+Negative Covid headlines continue to dominate the narrative as US is experiencing an uptick in cases and hospitalizations following Thanksgiving Holiday. The trend is regional and follows similar experience post major holidays. Details on Omicron‚Äôs severity remains elusive but current vaccines and boosters do offer high degree of protection against serious complications.
 The regime model dynamics are reflective of the range bound movements amid volatility in equity prices and some fundamental data.
 The US model is now 5/12 (neutral reading) as market breadth and credit spreads dynamics caught up from the past few weeks of volatility.
 The Small cap model moved back and forth between positive and negative reading following similar behavior in commodity prices and rates. The Small caps remain range bound but are in a lower ranking of the Relative Strength model. It is not unreasonable to assume that they can bounce back quite strongly amid reversal in sentiment, I want to acknowledge quantitative readings and move the view to Neutral.
@@ -81,13 +81,13 @@ The Non-US views remain intact.
  
 12/7/2021
 There were changes to the quantitative scores following a period of volatility over the last two weeks. As the perceived catalyst(s) behind market uncertainty may have become more accepted and given a strong market bounce over the last few days we should be careful in interpreting the scores as they might bounce back relatively quickly.  
-Information about Omicron is still limited and supports what weíve heard when the news came out: the symptoms are mild, and hospitalizations are not going up. If this holds. So might the recovery rally.
+Information about Omicron is still limited and supports what we‚Äôve heard when the news came out: the symptoms are mild, and hospitalizations are not going up. If this holds. So might the recovery rally.
 US Large Cap: the score went down and is now 7/12
 Cross-sectional correlation went up and high-yield spreads increased. Both typical risk-off behaviors. Both data points have been moving lower amid improved market sentiment.
 US Small Cap: the model switched to favoring Large Caps.
 Commodity prices and treasury yields went lower amid potential impact of polices related to Covid on economic growth. Both variables have been improving along with market sentiment.
 No changes to EAFE and EM views. However, the EM model technical and volatility composite weakened amid recent volatility.
-The Value/Growth dynamic have been very volatile without a developing trendÖin my view as of yet.
+The Value/Growth dynamic have been very volatile without a developing trend‚Ä¶in my view as of yet.
 
 11/30/2021
 No changes to the views.
@@ -96,13 +96,13 @@ The increase in volatility pushed Volatility composite scores lower for the US (
 The quantitative model still favors US Small Caps vs US Large Caps but Small Caps went down in the Relative Strength ranking from 3/6 to 5/6 amid a Covid induced sell-off. 
 Quality and Low Volatility equity factors outperformed amid market turbulence.
 Uncertainty surrounding Omicron will most likely drive the sentiment/volatility in the upcoming weeks till more data is available.
-Fedís comments today are not helping, very unfortunate timing.
+Fed‚Äôs comments today are not helping, very unfortunate timing.
 
 11/16/2021
 
 No changes to the views.
 Quantitative models remain as of last week. 
-Economic data releases were mixed. CPI and PPI numbers came in higher than expected and U. of Michigan sentiment index dipped. At the same time, retail sales and industrial production edged up and beat expectations. Mortgage delinquencies decreased from prior month while Walmart reported solid sales growth and raised forecast. Gross margins though were under pressure amid supply-chain snarl and rising inflation. Home Depot (another consumer bellwether) posted solid sales growths supported by the ìhotî housing market.
+Economic data releases were mixed. CPI and PPI numbers came in higher than expected and U. of Michigan sentiment index dipped. At the same time, retail sales and industrial production edged up and beat expectations. Mortgage delinquencies decreased from prior month while Walmart reported solid sales growth and raised forecast. Gross margins though were under pressure amid supply-chain snarl and rising inflation. Home Depot (another consumer bellwether) posted solid sales growths supported by the ‚Äúhot‚Äù housing market.
 The Baltic Dry index remained lower (at almost 52% from September high) while Shipping Container cost were moving sideways since the end of August. It could be a sign that shipping industry is beginning to work through its challenges.
 
 11/9/2021
@@ -142,8 +142,8 @@ The supply driven inflation amid energy crisis, continuous shipping strains, imp
 No changes to quantitative, fundamental, or technical views.
 Although quantitative signals remained mostly the same there was a weakness in technical factors which typically coincide with increased volatility: Increased correlations (the signal turned risk-off) and declining market breadth (trending lower but signal is still positive). Valuation spreads widened but are still a long way from flipping the signal. 
 Small cap model turned lower driven by weakness in commodities.
-Stronger US dollar and weaker AUD (most likely a reflection of weaker commodities amid uncertainties over Chinaís economic growth) pushed currency composites in EM and EAFE models into risk-off mode.
-The narrative (especially yesterday) was attributing the sell-off to the possible contagion risks from Evergrande solvency situation and general crackdown by Chinese authorities on real-estate sector and this weekís Fed meeting. Given recent economic data (weaker than expected inflation and slowing consumer) it is unlikely that the Fed will deliver any surprises. Financial conditions in the US and credit spreads have not been showing signs of stress either. Financial conditions in the Euro- Zone turned lower last week.
+Stronger US dollar and weaker AUD (most likely a reflection of weaker commodities amid uncertainties over China‚Äôs economic growth) pushed currency composites in EM and EAFE models into risk-off mode.
+The narrative (especially yesterday) was attributing the sell-off to the possible contagion risks from Evergrande solvency situation and general crackdown by Chinese authorities on real-estate sector and this week‚Äôs Fed meeting. Given recent economic data (weaker than expected inflation and slowing consumer) it is unlikely that the Fed will deliver any surprises. Financial conditions in the US and credit spreads have not been showing signs of stress either. Financial conditions in the Euro- Zone turned lower last week.
 We have been discussing a possibility of technical correction over the last few weeks and recent market weakness looks just like one. None of the support/resistance levels which have been set this year were broken on US large, small, and EAFE equity indexes. EM looks challenging.
 
 9/14/2021
@@ -261,7 +261,7 @@ US personal spending rose at a moderate pace following stimulus fueled surge and
 No changes from last week.
 
 Economic releases over the past week continue to support robust post-pandemic recovery. Both Markit US Manufacturing and Services PMIs point to economic growth with Services PMI beating expectations (70.1 vs 64.3).
-Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As Iíve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
+Inflation remains a hot topic but it is not playing into my thoughts on positioning yet. As I‚Äôve mention before the expectation is for the markets to remain range-bound, and they did during the last week.
 The market leadership has been broad, despite shifting back and forth between cyclical, Growth, and sometime defensives.  It remained a good environment for active managers.
 
 5/18/2021
