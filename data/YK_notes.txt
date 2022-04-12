@@ -1,3 +1,14 @@
+4/11/2022
+
+The equity views remain neutral across, with a more cautious view on EAFE. 
+
+US Large Cap 6/12 – most weakness in technical and volatility composites even though the technical composite moved up a notch on improving market breadth. Financial conditions are weaker as well, but the trend has been improving since March 15th.
+US Small Cap (vs Large) – still positive  
+EAFE negative – negative across composites except for currency.
+EM positive – on commodity, technical, and currency composites. The Volatility composite is negative 
+Relative Strength: REITs (positive spread) => S&P 500 (positive spread) => JNK => EAFE (negative spread) => R2k(negative spread)=> EM (negative spread) 
+Relative Strength Factors (US LC): Value (positive spread) => Low Vol (positive spread) => Sentiment/Risk (positive spread) => Momentum (negative spread) => Quality(negative spread)=> Growth (negative spread)
+
 4/5/2022
 
 The equity views remain neutral across, but I am growing more cautious on EAFE.
