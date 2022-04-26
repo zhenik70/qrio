@@ -1,4 +1,17 @@
-4/19/22
+4/26/2022
+
+The equity views remain neutral across, with a more cautious view on EAFE. 
+The US Model moved back to 6/12 as technical indicators weaken over the last week. 
+It seemed to remain a macro-driven market as the environment continues to reflect a lot of uncertainty coming from the Fed, inflation, supply chain, geo-political issues which play into supply chain and inflation, and now lockdowns in China.
+
+1Q earnings in US
+132 out of 499 S&P 500 companies have reported thus far. 67% beat on sales and 80% beat on earnings. Earnings and Sales growth has been very constructive outside of banking and financial companies. The supply chain issues are mentioned a lot, particularly in the industrials, and earnings forecasts and guidance are more cautious. Big Tech is reporting this week.
+Economic Data
+The underlying economic condition remain relatively solid with manufacturing sector weathering supply chain and inflation issues.
+Despite high inflation consumer confidence remained very strong (Conference Board Consumer confidence). The consumer health has been one of the themes we have heard on the earnings calls from consumer finance and consumer staples companies 
+
+
+4/19/2022
 
 The equity views remain neutral across, with a more cautious view on EAFE. 
 The only change to quant models is an improvement in US on technical, now (7/12). However, given market volatility I will wait on upgrading US view to positive.
