@@ -1,262 +1,523 @@
 ,date,ticker,mfp,sector,industry,scalemarketcap,qMO,qValue,qQuality,qLV,qSentiment,qGrowth
-0,2023-08-31,AMAT,qMO,Technology,Semiconductor Equipment & Materials,Large,0.98,0.49,0.94,0.17,0.26,0.95
-1,2023-08-31,AMAT,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.98,0.49,0.94,0.17,0.26,0.95
-2,2023-08-31,MA,qMO,Financial Services,Credit Services,Large,0.79,0.01,0.5,0.87,0.28,0.91
-3,2023-08-31,MCK,qMO,Healthcare,Medical Distribution,Large,0.86,0.68,0.49,0.83,0.09,0.54
-4,2023-08-31,META,qMO,Communication Services,Internet Content & Information,Large,0.89,0.56,0.99,0.12,0.06,0.92
-5,2023-08-31,META,qQuality,Communication Services,Internet Content & Information,Large,0.89,0.56,0.99,0.12,0.06,0.92
-6,2023-08-31,REGN,qMO,Healthcare,Biotechnology,Large,0.97,0.58,0.79,0.72,0.01,0.95
-7,2023-08-31,REGN,qGrowth,Healthcare,Biotechnology,Large,0.97,0.58,0.79,0.72,0.01,0.95
-8,2023-08-31,UBS,qMO,Financial Services,Banks - Diversified,Large,0.95,0.32,0.2,0.51,0.74,0.48
-9,2023-08-31,MPC,qMO,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.69,0.39,0.27,0.96
-10,2023-08-31,MPC,qValue,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.69,0.39,0.27,0.96
-11,2023-08-31,MPC,qGrowth,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.69,0.39,0.27,0.96
-12,2023-08-31,NVO,qMO,Healthcare,Biotechnology,Large,1.0,0.84,0.99,0.79,0.06,0.78
-13,2023-08-31,NVO,qQuality,Healthcare,Biotechnology,Large,1.0,0.84,0.99,0.79,0.06,0.78
-14,2023-08-31,ANET,qMO,Technology,Computer Hardware,Large,1.0,0.05,0.72,0.14,0.16,0.81
-15,2023-08-31,GL,qMO,Financial Services,Insurance - Life,Large,0.99,0.23,0.3,0.26,0.66,0.51
-16,2023-08-31,NVDA,qMO,Technology,Semiconductors,Large,0.99,0.01,0.93,0.08,0.04,0.97
-17,2023-08-31,NVDA,qGrowth,Technology,Semiconductors,Large,0.99,0.01,0.93,0.08,0.04,0.97
-18,2023-08-31,ROST,qMO,Consumer Cyclical,Apparel Retail,Large,0.99,0.68,0.86,0.57,0.39,0.72
-19,2023-08-31,TJX,qMO,Consumer Cyclical,Apparel Retail,Large,0.99,0.64,0.87,0.92,0.6,0.79
-20,2023-08-31,APA,qMO,Energy,Oil & Gas E&P,Large,0.98,0.89,0.94,0.07,0.62,0.23
-21,2023-08-31,APA,qValue,Energy,Oil & Gas E&P,Large,0.98,0.89,0.94,0.07,0.62,0.23
-22,2023-08-31,CRH,qMO,Basic Materials,Building Materials,Large,0.98,0.88,0.71,0.61,0.71,0.47
-23,2023-08-31,LLY,qMO,Healthcare,Drug Manufacturers - General,Large,0.98,0.06,0.81,0.81,0.01,0.3
-24,2023-08-31,MKL,qMO,Financial Services,Insurance - Property & Casualty,Large,0.98,0.3,0.19,0.84,0.02,0.98
-25,2023-08-31,MKL,qGrowth,Financial Services,Insurance - Property & Casualty,Large,0.98,0.3,0.19,0.84,0.02,0.98
-26,2023-08-31,VMW,qMO,Technology,Software - Infrastructure,Large,0.98,0.41,0.98,0.82,0.39,0.62
-27,2023-08-31,VMW,qQuality,Technology,Software - Infrastructure,Large,0.98,0.41,0.98,0.82,0.39,0.62
-28,2023-08-31,FMX,qMO,Consumer Defensive,Beverages - Brewers,Large,0.97,0.99,0.57,0.88,0.49,0.63
-29,2023-08-31,FMX,qValue,Consumer Defensive,Beverages - Brewers,Large,0.97,0.99,0.57,0.88,0.49,0.63
-30,2023-08-31,PHG,qMO,Healthcare,Medical Devices,Large,0.97,0.45,0.04,0.25,0.83,0.02
-31,2023-08-31,CBOE,qMO,Financial Services,Financial Data & Stock Exchanges,Large,0.97,0.07,0.3,0.82,0.28,0.61
-32,2023-08-31,BA,qMO,Industrials,Aerospace & Defense,Large,0.96,0.51,0.17,0.35,0.19,0.02
-33,2023-08-31,CMCSA,qMO,Communication Services,Telecom Services,Large,0.96,0.71,0.66,0.68,0.9,0.43
-34,2023-08-31,CX,qMO,Basic Materials,Building Materials,Large,0.96,0.72,0.3,0.3,0.96,0.79
-35,2023-08-31,CX,qSentiment,Basic Materials,Building Materials,Large,0.96,0.72,0.3,0.3,0.96,0.79
-36,2023-08-31,KLAC,qMO,Technology,Semiconductor Equipment & Materials,Large,0.96,0.29,0.9,0.16,0.06,0.99
-37,2023-08-31,KLAC,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.96,0.29,0.9,0.16,0.06,0.99
-38,2023-08-31,SLB,qMO,Energy,Oil & Gas Equipment & Services,Large,0.96,0.61,0.64,0.32,0.8,0.04
-39,2023-08-31,SNY,qMO,Healthcare,Drug Manufacturers - General,Large,0.96,0.79,0.7,0.94,0.83,0.52
-40,2023-08-31,ETN,qMO,Industrials,Specialty Industrial Machinery,Large,0.95,0.28,0.62,0.66,0.27,0.35
-41,2023-08-31,FRFHF,qMO,Financial Services,Insurance - Property & Casualty,Large,0.95,0.28,0.03,0.77,0.04,0.65
-42,2023-08-31,FRFHF,qLV,Financial Services,Insurance - Property & Casualty,Large,0.95,0.28,0.03,0.77,0.04,0.65
-43,2023-08-31,LRCX,qMO,Technology,Semiconductor Equipment & Materials,Large,0.95,0.38,0.97,0.12,0.03,0.95
-44,2023-08-31,LRCX,qQuality,Technology,Semiconductor Equipment & Materials,Large,0.95,0.38,0.97,0.12,0.03,0.95
-45,2023-08-31,LRCX,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.95,0.38,0.97,0.12,0.03,0.95
-46,2023-08-31,MAR,qMO,Consumer Cyclical,Lodging,Large,0.95,0.22,0.32,0.57,0.4,0.7
-47,2023-08-31,NUE,qMO,Basic Materials,Steel,Large,0.95,0.88,0.93,0.23,0.49,0.97
-48,2023-08-31,NUE,qGrowth,Basic Materials,Steel,Large,0.95,0.88,0.93,0.23,0.49,0.97
-49,2023-08-31,SCCO,qMO,Basic Materials,Copper,Large,0.95,0.56,0.85,0.48,0.42,0.83
-50,2023-08-31,BKNG,qMO,Industrials,Travel Services,Large,0.94,0.39,0.69,0.42,0.0,0.92
-51,2023-08-31,BKNG,qGrowth,Industrials,Travel Services,Large,0.94,0.39,0.69,0.42,0.0,0.92
-52,2023-08-31,HES,qMO,Energy,Oil & Gas E&P,Large,0.94,0.54,0.82,0.37,0.46,0.6
-53,2023-08-31,TTE,qMO,Energy,Oil & Gas Integrated,Large,0.94,0.94,0.82,0.87,0.72,0.75
-54,2023-08-31,PHM,qMO,Consumer Cyclical,Residential Construction,Large,0.94,0.91,0.61,0.36,0.39,0.86
-55,2023-08-31,CHT,qValue,Communication Services,Telecom Services,Large,0.47,0.98,0.91,1.0,0.97,0.09
-56,2023-08-31,CHT,qSentiment,Communication Services,Telecom Services,Large,0.47,0.98,0.91,1.0,0.97,0.09
-57,2023-08-31,CHT,qLV,Communication Services,Telecom Services,Large,0.47,0.98,0.91,1.0,0.97,0.09
-58,2023-08-31,COP,qValue,Energy,Oil & Gas E&P,Large,0.61,0.81,0.97,0.56,0.72,0.94
-59,2023-08-31,COP,qQuality,Energy,Oil & Gas E&P,Large,0.61,0.81,0.97,0.56,0.72,0.94
-60,2023-08-31,COP,qGrowth,Energy,Oil & Gas E&P,Large,0.61,0.81,0.97,0.56,0.72,0.94
-61,2023-08-31,EC,qValue,Energy,Oil & Gas Integrated,Large,0.74,1.0,0.6,0.36,0.97,0.92
-62,2023-08-31,EC,qSentiment,Energy,Oil & Gas Integrated,Large,0.74,1.0,0.6,0.36,0.97,0.92
-63,2023-08-31,ETR,qValue,Utilities,Utilities - Regulated Electric,Large,0.1,0.9,0.46,0.7,0.47,0.37
-64,2023-08-31,HMC,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.64,1.0,0.51,0.89,0.88,0.22
-65,2023-08-31,MGA,qValue,Consumer Cyclical,Auto Parts,Large,0.18,0.9,0.32,0.28,0.38,0.31
-66,2023-08-31,PKX,qValue,Basic Materials,Steel,Large,0.79,1.0,0.16,0.33,0.19,0.19
-67,2023-08-31,PSX,qValue,Energy,Oil & Gas Refining & Marketing,Large,0.92,0.93,0.53,0.47,0.59,0.82
-68,2023-08-31,SHEL,qValue,Energy,Oil & Gas Integrated,Large,0.68,0.97,0.82,0.88,0.87,0.69
-69,2023-08-31,SHEL,qLV,Energy,Oil & Gas Integrated,Large,0.68,0.97,0.82,0.88,0.87,0.69
-70,2023-08-31,TLK,qValue,Communication Services,Telecom Services,Large,0.27,0.99,0.87,0.96,0.96,0.28
-71,2023-08-31,TLK,qQuality,Communication Services,Telecom Services,Large,0.27,0.99,0.87,0.96,0.96,0.28
-72,2023-08-31,TLK,qSentiment,Communication Services,Telecom Services,Large,0.27,0.99,0.87,0.96,0.96,0.28
-73,2023-08-31,TM,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.44,1.0,0.38,0.93,0.33,0.24
-74,2023-08-31,VIV,qValue,Communication Services,Telecom Services,Large,0.25,0.98,0.98,0.68,0.98,0.19
-75,2023-08-31,VIV,qQuality,Communication Services,Telecom Services,Large,0.25,0.98,0.98,0.68,0.98,0.19
-76,2023-08-31,VIV,qSentiment,Communication Services,Telecom Services,Large,0.25,0.98,0.98,0.68,0.98,0.19
-77,2023-08-31,VLO,qValue,Energy,Oil & Gas Refining & Marketing,Large,0.88,0.98,0.64,0.3,0.36,0.93
-78,2023-08-31,MT,qValue,Basic Materials,Steel,Large,0.34,0.99,0.57,0.41,0.79,0.55
-79,2023-08-31,JD,qValue,Consumer Cyclical,Internet Retail,Large,0.04,0.99,0.48,0.27,0.42,0.56
-80,2023-08-31,STLA,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.89,0.99,0.81,0.56,0.82,0.61
-81,2023-08-31,GM,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.13,0.98,0.59,0.19,0.52,0.4
-82,2023-08-31,PBR,qValue,Energy,Oil & Gas Integrated,Large,0.66,0.98,0.94,0.57,0.92,0.35
-83,2023-08-31,UAL,qValue,Industrials,Airlines,Large,0.56,0.98,0.69,0.13,0.54,0.65
-84,2023-08-31,EQNR,qValue,Energy,Oil & Gas Integrated,Large,0.29,0.97,0.92,0.67,0.86,0.99
-85,2023-08-31,EQNR,qQuality,Energy,Oil & Gas Integrated,Large,0.29,0.97,0.92,0.67,0.86,0.99
-86,2023-08-31,EQNR,qSentiment,Energy,Oil & Gas Integrated,Large,0.29,0.97,0.92,0.67,0.86,0.99
-87,2023-08-31,EQNR,qGrowth,Energy,Oil & Gas Integrated,Large,0.29,0.97,0.92,0.67,0.86,0.99
-88,2023-08-31,MOS,qValue,Basic Materials,Agricultural Inputs,Large,0.34,0.97,0.69,0.13,0.7,0.87
-89,2023-08-31,PAA,qValue,Energy,Oil & Gas Midstream,Large,0.06,0.97,0.45,0.37,0.75,0.3
-90,2023-08-31,VALE,qValue,Basic Materials,Other Industrial Metals & Mining,Large,0.01,0.97,0.87,0.49,0.85,0.57
-91,2023-08-31,VOD,qValue,Communication Services,Telecom Services,Large,0.11,0.97,0.88,0.7,0.98,0.26
-92,2023-08-31,VOD,qSentiment,Communication Services,Telecom Services,Large,0.11,0.97,0.88,0.7,0.98,0.26
-93,2023-08-31,ZTO,qValue,Industrials,Integrated Freight & Logistics,Large,0.16,0.97,0.74,0.59,0.71,0.63
-94,2023-08-31,BIDU,qValue,Communication Services,Internet Content & Information,Large,0.36,0.96,0.42,0.26,0.1,0.7
-95,2023-08-31,E,qValue,Energy,Oil & Gas Integrated,Large,0.86,0.96,0.69,0.78,0.94,0.88
-96,2023-08-31,EQT,qValue,Energy,Oil & Gas E&P,Large,0.59,0.96,0.88,0.08,0.8,0.97
-97,2023-08-31,EQT,qGrowth,Energy,Oil & Gas E&P,Large,0.59,0.96,0.88,0.08,0.8,0.97
-98,2023-08-31,OVV,qValue,Energy,Oil & Gas E&P,Large,0.49,0.96,0.76,0.03,0.81,0.89
-99,2023-08-31,ABEV,qValue,Consumer Defensive,Beverages - Brewers,Large,0.33,0.96,0.64,0.79,0.99,0.31
-100,2023-08-31,ABEV,qSentiment,Consumer Defensive,Beverages - Brewers,Large,0.33,0.96,0.64,0.79,0.99,0.31
-101,2023-08-31,BABA,qValue,Consumer Cyclical,Internet Retail,Large,0.4,0.96,0.68,0.37,0.26,0.78
-102,2023-08-31,ET,qValue,Energy,Oil & Gas Midstream,Large,0.7,0.95,0.42,0.86,0.96,0.22
-103,2023-08-31,ET,qSentiment,Energy,Oil & Gas Midstream,Large,0.7,0.95,0.42,0.86,0.96,0.22
-104,2023-08-31,LEN,qValue,Consumer Cyclical,Residential Construction,Large,0.84,0.95,0.67,0.34,0.23,0.98
-105,2023-08-31,LEN,qGrowth,Consumer Cyclical,Residential Construction,Large,0.84,0.95,0.67,0.34,0.23,0.98
-106,2023-08-31,NTES,qValue,Communication Services,Electronic Gaming & Multimedia,Large,0.84,0.95,0.95,0.56,0.31,0.96
-107,2023-08-31,NTES,qQuality,Communication Services,Electronic Gaming & Multimedia,Large,0.84,0.95,0.95,0.56,0.31,0.96
-108,2023-08-31,NTES,qGrowth,Communication Services,Electronic Gaming & Multimedia,Large,0.84,0.95,0.95,0.56,0.31,0.96
-109,2023-08-31,SU,qValue,Energy,Oil & Gas Integrated,Large,0.65,0.95,0.7,0.51,0.79,0.79
-110,2023-08-31,TEF,qValue,Communication Services,Telecom Services,Large,0.35,0.95,0.65,0.84,0.99,0.03
-111,2023-08-31,TEF,qSentiment,Communication Services,Telecom Services,Large,0.35,0.95,0.65,0.84,0.99,0.03
-112,2023-08-31,CNC,qValue,Healthcare,Healthcare Plans,Large,0.1,0.95,0.66,0.65,0.63,0.88
-113,2023-08-31,BP,qValue,Energy,Oil & Gas Integrated,Large,0.77,0.94,0.78,0.8,0.91,0.4
-114,2023-08-31,BP,qLV,Energy,Oil & Gas Integrated,Large,0.77,0.94,0.78,0.8,0.91,0.4
-115,2023-08-31,CF,qValue,Basic Materials,Agricultural Inputs,Large,0.32,0.94,0.96,0.26,0.41,0.87
-116,2023-08-31,CF,qQuality,Basic Materials,Agricultural Inputs,Large,0.32,0.94,0.96,0.26,0.41,0.87
-117,2023-08-31,AAPL,qQuality,Technology,Consumer Electronics,Large,0.4,0.15,0.95,0.62,0.16,0.85
-118,2023-08-31,ABBV,qQuality,Healthcare,Drug Manufacturers - General,Large,0.75,0.65,0.99,0.97,0.56,0.75
-119,2023-08-31,ABBV,qLV,Healthcare,Drug Manufacturers - General,Large,0.75,0.65,0.99,0.97,0.56,0.75
-120,2023-08-31,ADSK,qQuality,Technology,Software - Application,Large,0.45,0.23,1.0,0.19,0.21,0.71
-121,2023-08-31,AKAM,qQuality,Technology,Software - Infrastructure,Large,0.74,0.47,0.89,0.33,0.25,0.81
-122,2023-08-31,BMY,qQuality,Healthcare,Drug Manufacturers - General,Large,0.39,0.74,0.93,0.98,0.88,0.91
-123,2023-08-31,BMY,qLV,Healthcare,Drug Manufacturers - General,Large,0.39,0.74,0.93,0.98,0.88,0.91
-124,2023-08-31,CHKP,qQuality,Technology,Software - Infrastructure,Large,0.43,0.45,0.97,0.74,0.46,0.55
-125,2023-08-31,CMG,qQuality,Consumer Cyclical,Restaurants,Large,0.43,0.19,0.91,0.38,0.01,0.97
-126,2023-08-31,CMG,qGrowth,Consumer Cyclical,Restaurants,Large,0.43,0.19,0.91,0.38,0.01,0.97
-127,2023-08-31,INFY,qQuality,Technology,Information Technology Services,Large,0.34,0.32,0.93,0.78,0.95,0.65
-128,2023-08-31,INFY,qSentiment,Technology,Information Technology Services,Large,0.34,0.32,0.93,0.78,0.95,0.65
-129,2023-08-31,INTU,qQuality,Technology,Software - Application,Large,0.83,0.12,0.92,0.26,0.1,0.89
-130,2023-08-31,ISRG,qQuality,Healthcare,Medical Instruments & Supplies,Large,0.51,0.07,0.82,0.44,0.07,0.83
-131,2023-08-31,MSFT,qQuality,Technology,Software - Infrastructure,Large,0.64,0.13,0.96,0.53,0.21,0.93
-132,2023-08-31,MSFT,qGrowth,Technology,Software - Infrastructure,Large,0.64,0.13,0.96,0.53,0.21,0.93
-133,2023-08-31,ORCL,qQuality,Technology,Software - Infrastructure,Large,0.89,0.2,0.79,0.82,0.62,0.86
-134,2023-08-31,PAYX,qQuality,Industrials,Staffing & Employment Services,Large,0.46,0.38,0.97,0.66,0.53,0.64
-135,2023-08-31,TSM,qQuality,Technology,Semiconductors,Large,0.47,0.65,0.99,0.48,0.48,0.94
-136,2023-08-31,TSM,qGrowth,Technology,Semiconductors,Large,0.47,0.65,0.99,0.48,0.48,0.94
-137,2023-08-31,TU,qQuality,Communication Services,Telecom Services,Large,0.04,0.77,0.76,0.94,0.94,0.19
-138,2023-08-31,SQM,qQuality,Basic Materials,Specialty Chemicals,Large,0.19,0.94,1.0,0.17,0.35,1.0
-139,2023-08-31,SQM,qGrowth,Basic Materials,Specialty Chemicals,Large,0.19,0.94,1.0,0.17,0.35,1.0
-140,2023-08-31,FTNT,qQuality,Technology,Software - Infrastructure,Large,0.41,0.21,1.0,0.17,0.14,0.92
-141,2023-08-31,ADBE,qQuality,Technology,Software - Infrastructure,Large,0.83,0.1,0.99,0.24,0.07,0.95
-142,2023-08-31,ADBE,qGrowth,Technology,Software - Infrastructure,Large,0.83,0.1,0.99,0.24,0.07,0.95
-143,2023-08-31,EOG,qQuality,Energy,Oil & Gas E&P,Large,0.64,0.81,0.99,0.43,0.55,0.93
-144,2023-08-31,EOG,qGrowth,Energy,Oil & Gas E&P,Large,0.64,0.81,0.99,0.43,0.55,0.93
-145,2023-08-31,CTRA,qQuality,Energy,Oil & Gas E&P,Large,0.62,0.93,0.98,0.25,0.94,0.76
-146,2023-08-31,CTRA,qGrowth,Energy,Oil & Gas E&P,Large,0.62,0.93,0.98,0.25,0.94,0.76
-147,2023-08-31,PANW,qQuality,Technology,Software - Infrastructure,Large,0.78,0.15,0.98,0.16,0.05,0.74
-148,2023-08-31,PDD,qQuality,Consumer Cyclical,Internet Retail,Large,0.73,0.94,0.98,0.3,0.27,0.81
-149,2023-08-31,MCHP,qQuality,Technology,Semiconductors,Large,0.65,0.48,0.97,0.16,0.24,0.98
-150,2023-08-31,MCHP,qGrowth,Technology,Semiconductors,Large,0.65,0.48,0.97,0.16,0.24,0.98
-151,2023-08-31,PXD,qQuality,Energy,Oil & Gas E&P,Large,0.66,0.79,0.97,0.4,0.31,0.97
-152,2023-08-31,PXD,qGrowth,Energy,Oil & Gas E&P,Large,0.66,0.79,0.97,0.4,0.31,0.97
-153,2023-08-31,MELI,qQuality,Consumer Cyclical,Internet Retail,Large,0.84,0.48,0.97,0.1,0.0,0.78
-154,2023-08-31,CSCO,qQuality,Technology,Communication Equipment,Large,0.83,0.46,0.96,0.87,0.68,0.59
-155,2023-08-31,EA,qQuality,Communication Services,Electronic Gaming & Multimedia,Large,0.22,0.54,0.96,0.69,0.23,0.7
-156,2023-08-31,GOOGL,qQuality,Communication Services,Internet Content & Information,Large,0.8,0.54,0.96,0.46,0.63,0.98
-157,2023-08-31,GOOGL,qGrowth,Communication Services,Internet Content & Information,Large,0.8,0.54,0.96,0.46,0.63,0.98
-158,2023-08-31,SNPS,qQuality,Technology,Software - Infrastructure,Large,0.75,0.06,0.96,0.38,0.12,0.89
-159,2023-08-31,CDNS,qQuality,Technology,Software - Application,Large,0.66,0.05,0.96,0.37,0.27,0.86
-160,2023-08-31,ASML,qQuality,Technology,Semiconductor Equipment & Materials,Large,0.8,0.09,0.95,0.35,0.03,0.98
-161,2023-08-31,ASML,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.8,0.09,0.95,0.35,0.03,0.98
-162,2023-08-31,AVGO,qQuality,Technology,Semiconductors,Large,0.87,0.17,0.95,0.37,0.02,0.89
-163,2023-08-31,EXPD,qQuality,Industrials,Integrated Freight & Logistics,Large,0.36,0.78,0.95,0.43,0.24,0.9
-164,2023-08-31,RELX,qQuality,Industrials,Specialty Business Services,Large,0.64,0.5,0.95,0.97,0.87,0.46
-165,2023-08-31,RELX,qLV,Industrials,Specialty Business Services,Large,0.64,0.5,0.95,0.97,0.87,0.46
-166,2023-08-31,AEG,qSentiment,Financial Services,Insurance - Diversified,Large,0.84,0.19,0.0,0.51,0.98,0.01
-167,2023-08-31,ATVI,qSentiment,Communication Services,Electronic Gaming & Multimedia,Large,0.81,0.36,0.76,0.68,0.9,0.69
-168,2023-08-31,CSX,qSentiment,Industrials,Railroads,Large,0.24,0.75,0.71,0.64,0.77,0.59
-169,2023-08-31,FMS,qSentiment,Healthcare,Medical Care Facilities,Large,0.25,0.84,0.43,0.56,0.79,0.1
-170,2023-08-31,HBAN,qSentiment,Financial Services,Banks - Regional,Large,0.2,0.38,0.12,0.15,0.89,0.57
-171,2023-08-31,LYG,qSentiment,Financial Services,Banks - Regional,Large,0.54,0.41,0.24,0.59,1.0,0.26
-172,2023-08-31,MFG,qSentiment,Financial Services,Banks - Regional,Large,0.8,0.2,0.0,0.72,0.99,0.05
-173,2023-08-31,MUFG,qSentiment,Financial Services,Banks - Diversified,Large,0.85,0.47,0.15,0.65,0.96,0.07
-174,2023-08-31,PFE,qSentiment,Healthcare,Drug Manufacturers - General,Large,0.25,0.77,0.59,0.92,0.89,0.32
-175,2023-08-31,PPL,qSentiment,Utilities,Utilities - Regulated Electric,Large,0.21,0.6,0.12,0.77,0.84,0.06
-176,2023-08-31,RF,qSentiment,Financial Services,Banks - Regional,Large,0.45,0.35,0.08,0.2,0.82,0.58
-177,2023-08-31,SIRI,qSentiment,Communication Services,Entertainment,Large,0.2,0.59,0.41,0.32,0.93,0.69
-178,2023-08-31,WIT,qSentiment,Technology,Information Technology Services,Large,0.7,0.7,0.61,0.86,1.0,0.69
-179,2023-08-31,ERIC,qSentiment,Technology,Communication Equipment,Large,0.04,0.76,0.65,0.39,1.0,0.11
-180,2023-08-31,NOK,qSentiment,Technology,Communication Equipment,Large,0.05,0.58,0.23,0.54,0.99,0.08
-181,2023-08-31,ORAN,qSentiment,Communication Services,Telecom Services,Large,0.53,0.91,0.55,0.99,0.99,0.1
-182,2023-08-31,ORAN,qLV,Communication Services,Telecom Services,Large,0.53,0.91,0.55,0.99,0.99,0.1
-183,2023-08-31,DB,qSentiment,Financial Services,Banks - Regional,Large,0.62,0.44,0.02,0.4,0.98,0.0
-184,2023-08-31,EPD,qSentiment,Energy,Oil & Gas Midstream,Large,0.52,0.82,0.41,0.99,0.98,0.67
-185,2023-08-31,EPD,qLV,Energy,Oil & Gas Midstream,Large,0.52,0.82,0.41,0.99,0.98,0.67
-186,2023-08-31,NMR,qSentiment,Financial Services,Capital Markets,Large,0.43,0.48,0.01,0.79,0.98,0.18
-187,2023-08-31,T,qSentiment,Communication Services,Telecom Services,Large,0.07,0.79,0.25,0.7,0.98,0.02
-188,2023-08-31,BBD,qSentiment,Financial Services,Banks - Regional,Large,0.01,0.46,0.2,0.44,0.97,0.04
-189,2023-08-31,KMI,qSentiment,Energy,Oil & Gas Midstream,Large,0.38,0.75,0.46,0.79,0.97,0.11
-190,2023-08-31,NWG,qSentiment,Financial Services,Banks - Diversified,Large,0.13,0.41,0.05,0.6,0.97,0.57
-191,2023-08-31,BCS,qSentiment,Financial Services,Banks - Diversified,Large,0.32,0.43,0.03,0.45,0.96,0.13
-192,2023-08-31,ITUB,qSentiment,Financial Services,Banks - Regional,Large,0.32,0.46,0.35,0.46,0.96,0.33
-193,2023-08-31,SMFG,qSentiment,Financial Services,Banks - Diversified,Large,0.76,0.48,0.02,0.72,0.96,0.06
-194,2023-08-31,TEVA,qSentiment,Healthcare,Drug Manufacturers - Specialty & Generic,Large,0.29,0.8,0.08,0.18,0.95,0.0
-195,2023-08-31,MPLX,qSentiment,Energy,Oil & Gas Midstream,Large,0.63,0.82,0.67,0.98,0.95,0.83
-196,2023-08-31,MPLX,qLV,Energy,Oil & Gas Midstream,Large,0.63,0.82,0.67,0.98,0.95,0.83
-197,2023-08-31,AZN,qLV,Healthcare,Drug Manufacturers - General,Large,0.49,0.42,0.73,0.9,0.75,0.71
-198,2023-08-31,BCE,qLV,Communication Services,Telecom Services,Large,0.19,0.83,0.68,0.97,0.84,0.09
-199,2023-08-31,BMO,qLV,Financial Services,Banks - Diversified,Large,0.23,0.39,0.14,0.84,0.37,0.17
-200,2023-08-31,BNS,qLV,Financial Services,Banks - Diversified,Large,0.15,0.41,0.05,0.85,0.68,0.17
-201,2023-08-31,CM,qLV,Financial Services,Banks - Diversified,Large,0.07,0.41,0.22,0.78,0.64,0.28
-202,2023-08-31,CNI,qLV,Industrials,Railroads,Large,0.13,0.79,0.78,0.9,0.41,0.53
-203,2023-08-31,COST,qLV,Consumer Defensive,Discount Stores,Large,0.77,0.51,0.8,0.85,0.08,0.82
-204,2023-08-31,CVX,qLV,Energy,Oil & Gas Integrated,Large,0.4,0.82,0.8,0.81,0.58,0.79
-205,2023-08-31,D,qLV,Utilities,Utilities - Regulated Electric,Large,0.01,0.81,0.4,0.78,0.6,0.23
-206,2023-08-31,DEO,qLV,Consumer Defensive,Beverages - Wineries & Distilleries,Large,0.65,0.5,0.9,0.98,0.39,0.6
-207,2023-08-31,DUK,qLV,Utilities,Utilities - Regulated Electric,Large,0.45,0.59,0.29,0.95,0.65,0.08
-208,2023-08-31,ED,qLV,Utilities,Utilities - Regulated Electric,Large,0.51,0.84,0.3,0.89,0.58,0.25
-209,2023-08-31,ENB,qLV,Energy,Oil & Gas Midstream,Large,0.23,0.86,0.52,0.91,0.8,0.21
-210,2023-08-31,GIS,qLV,Consumer Defensive,Packaged Foods,Large,0.15,0.68,0.58,0.9,0.46,0.21
-211,2023-08-31,GSK,qLV,Healthcare,Drug Manufacturers - General,Large,0.6,0.69,0.63,0.96,0.93,0.16
-212,2023-08-31,HSY,qLV,Consumer Defensive,Confectioners,Large,0.18,0.57,0.83,0.95,0.18,0.66
-213,2023-08-31,JNJ,qLV,Healthcare,Drug Manufacturers - General,Large,0.73,0.34,0.81,0.98,0.35,0.46
-214,2023-08-31,K,qLV,Consumer Defensive,Packaged Foods,Large,0.07,0.68,0.52,0.88,0.52,0.13
-215,2023-08-31,MCD,qLV,Consumer Cyclical,Restaurants,Large,0.48,0.2,0.39,0.99,0.29,0.37
-216,2023-08-31,NEE,qLV,Utilities,Utilities - Regulated Electric,Large,0.08,0.59,0.39,0.83,0.59,0.49
-217,2023-08-31,NGG,qLV,Utilities,Utilities - Regulated Electric,Large,0.3,0.85,0.47,0.94,0.62,0.34
-218,2023-08-31,NVS,qLV,Healthcare,Drug Manufacturers - General,Large,0.77,0.62,0.91,0.98,0.79,0.17
-219,2023-08-31,PEP,qLV,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.54,0.52,0.66,1.0,0.29,0.49
-220,2023-08-31,PG,qLV,Consumer Defensive,Household & Personal Products,Large,0.64,0.46,0.84,0.99,0.53,0.34
-221,2023-08-31,PM,qLV,Consumer Defensive,Tobacco,Large,0.32,0.4,0.34,0.98,0.59,0.07
-222,2023-08-31,RY,qLV,Financial Services,Banks - Diversified,Large,0.33,0.36,0.25,0.97,0.36,0.46
-223,2023-08-31,SNN,qLV,Healthcare,Medical Devices,Large,0.39,0.52,0.4,0.76,0.76,0.08
-224,2023-08-31,SO,qLV,Utilities,Utilities - Regulated Electric,Large,0.33,0.66,0.3,0.94,0.67,0.23
-225,2023-08-31,TD,qLV,Financial Services,Banks - Diversified,Large,0.52,0.38,0.05,0.9,0.53,0.33
-226,2023-08-31,TRI,qLV,Industrials,Specialty Business Services,Large,0.52,0.42,0.75,0.94,0.36,0.28
-227,2023-08-31,WM,qLV,Industrials,Waste Management,Large,0.27,0.58,0.73,0.97,0.56,0.5
-228,2023-08-31,WMT,qLV,Consumer Defensive,Discount Stores,Large,0.82,0.71,0.65,1.0,0.64,0.62
-229,2023-08-31,XOM,qLV,Energy,Oil & Gas Integrated,Large,0.7,0.85,0.84,0.76,0.59,0.79
-230,2023-08-31,UL,qLV,Consumer Defensive,Household & Personal Products,Large,0.67,0.78,0.8,1.0,0.79,0.5
-231,2023-08-31,BTI,qLV,Consumer Defensive,Tobacco,Large,0.1,0.85,0.65,0.99,0.91,0.11
-232,2023-08-31,KO,qLV,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.55,0.49,0.72,0.99,0.89,0.41
-233,2023-08-31,MRK,qLV,Healthcare,Drug Manufacturers - General,Large,0.86,0.34,0.78,0.98,0.55,0.59
-234,2023-08-31,IBN,qLV,Financial Services,Banks - Regional,Large,0.58,0.47,0.11,0.97,0.91,0.38
-235,2023-08-31,MO,qLV,Consumer Defensive,Tobacco,Large,0.3,0.63,0.59,0.97,0.83,0.13
-236,2023-08-31,CB,qGrowth,Financial Services,Insurance - Property & Casualty,Large,0.6,0.27,0.21,0.91,0.61,0.81
-237,2023-08-31,COF,qGrowth,Financial Services,Credit Services,Large,0.29,0.39,0.22,0.18,0.2,0.77
-238,2023-08-31,CRM,qGrowth,Technology,Software - Application,Large,0.68,0.14,0.91,0.24,0.18,0.8
-239,2023-08-31,HDB,qGrowth,Financial Services,Banks - Regional,Large,0.56,0.47,0.11,0.92,0.55,0.94
-240,2023-08-31,SBAC,qGrowth,Real Estate,REIT - Specialty,Large,0.03,0.25,0.13,0.32,0.26,0.9
-241,2023-08-31,ULTA,qGrowth,Consumer Cyclical,Specialty Retail,Large,0.5,0.72,0.83,0.46,0.05,0.88
-242,2023-08-31,LNG,qGrowth,Energy,Oil & Gas Midstream,Large,0.78,0.92,0.83,0.47,0.45,1.0
-243,2023-08-31,VRTX,qGrowth,Healthcare,Biotechnology,Large,0.73,0.47,0.95,0.86,0.3,1.0
-244,2023-08-31,NFLX,qGrowth,Communication Services,Entertainment,Large,0.75,0.13,0.66,0.13,0.07,0.99
-245,2023-08-31,DHI,qGrowth,Consumer Cyclical,Residential Construction,Large,0.89,0.82,0.53,0.33,0.23,0.99
-246,2023-08-31,ALB,qGrowth,Basic Materials,Specialty Chemicals,Large,0.04,0.88,0.77,0.08,0.12,0.99
-247,2023-08-31,SHOP,qGrowth,Technology,Software - Application,Large,0.53,0.01,0.04,0.06,0.29,0.99
-248,2023-08-31,ACGL,qGrowth,Financial Services,Insurance - Diversified,Large,0.91,0.26,0.29,0.68,0.71,0.98
-249,2023-08-31,CQP,qGrowth,Energy,Oil & Gas Midstream,Large,0.47,0.7,0.33,0.6,0.77,0.97
-250,2023-08-31,IMO,qGrowth,Energy,Oil & Gas Integrated,Large,0.85,0.91,0.63,0.55,0.72,0.96
-251,2023-08-31,LULU,qGrowth,Consumer Cyclical,Apparel Retail,Large,0.91,0.19,0.87,0.15,0.16,0.96
-252,2023-08-31,FANG,qGrowth,Energy,Oil & Gas E&P,Large,0.82,0.87,0.91,0.28,0.75,0.96
-253,2023-08-31,AMZN,qGrowth,Consumer Cyclical,Internet Retail,Large,0.9,0.28,0.49,0.24,0.31,0.95
-254,2023-08-31,DE,qGrowth,Industrials,Farm & Heavy Construction Machinery,Large,0.37,0.69,0.37,0.67,0.03,0.95
-255,2023-08-31,CI,qGrowth,Healthcare,Healthcare Plans,Large,0.44,0.87,0.62,0.74,0.15,0.94
-256,2023-08-31,CNQ,qGrowth,Energy,Oil & Gas E&P,Large,0.84,0.89,0.9,0.55,0.83,0.94
-257,2023-08-31,HUM,qGrowth,Healthcare,Healthcare Plans,Large,0.5,0.9,0.86,0.62,0.07,0.94
-258,2023-08-31,NXPI,qGrowth,Technology,Semiconductors,Large,0.8,0.4,0.82,0.18,0.09,0.93
-259,2023-08-31,ORLY,qGrowth,Consumer Cyclical,Specialty Retail,Large,0.79,0.37,0.63,0.85,0.11,0.93
-260,2023-08-31,STM,qGrowth,Technology,Semiconductors,Large,0.77,0.62,0.91,0.28,0.45,0.93
+0,2023-08-31,AMAT,qMO,Technology,Semiconductor Equipment & Materials,Large,0.84,0.49,0.94,0.18,0.22,0.95
+1,2023-08-31,AMAT,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.84,0.49,0.94,0.18,0.22,0.95
+2,2023-08-31,AON,qMO,Financial Services,Insurance Brokers,Large,0.78,0.06,0.41,0.92,0.14,0.77
+3,2023-08-31,MA,qMO,Financial Services,Credit Services,Large,0.86,0.01,0.5,0.89,0.12,0.91
+4,2023-08-31,MCK,qMO,Healthcare,Medical Distribution,Large,0.76,0.69,0.48,0.84,0.12,0.55
+5,2023-08-31,META,qMO,Communication Services,Internet Content & Information,Large,0.87,0.56,0.99,0.11,0.07,0.91
+6,2023-08-31,META,qQuality,Communication Services,Internet Content & Information,Large,0.87,0.56,0.99,0.11,0.07,0.91
+7,2023-08-31,REGN,qMO,Healthcare,Biotechnology,Large,0.89,0.59,0.79,0.7,0.02,0.95
+8,2023-08-31,REGN,qGrowth,Healthcare,Biotechnology,Large,0.89,0.59,0.79,0.7,0.02,0.95
+9,2023-08-31,UBS,qMO,Financial Services,Banks - Diversified,Large,0.95,0.31,0.2,0.51,0.64,0.48
+10,2023-08-31,CX,qMO,Basic Materials,Building Materials,Large,1.0,0.72,0.3,0.25,0.95,0.79
+11,2023-08-31,CX,qSentiment,Basic Materials,Building Materials,Large,1.0,0.72,0.3,0.25,0.95,0.79
+12,2023-08-31,MPC,qMO,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.7,0.37,0.35,0.96
+13,2023-08-31,MPC,qValue,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.7,0.37,0.35,0.96
+14,2023-08-31,MPC,qGrowth,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.7,0.37,0.35,0.96
+15,2023-08-31,NVO,qMO,Healthcare,Biotechnology,Large,1.0,0.84,0.99,0.78,0.07,0.78
+16,2023-08-31,NVO,qQuality,Healthcare,Biotechnology,Large,1.0,0.84,0.99,0.78,0.07,0.78
+17,2023-08-31,DELL,qMO,Technology,Computer Hardware,Large,1.0,0.66,0.24,0.38,0.7,0.82
+18,2023-08-31,FMX,qMO,Consumer Defensive,Beverages - Brewers,Large,0.99,0.99,0.57,0.85,0.42,0.63
+19,2023-08-31,FMX,qValue,Consumer Defensive,Beverages - Brewers,Large,0.99,0.99,0.57,0.85,0.42,0.63
+20,2023-08-31,FRFHF,qMO,Financial Services,Insurance - Property & Casualty,Large,0.99,0.28,0.03,0.76,0.09,0.65
+21,2023-08-31,FRFHF,qLV,Financial Services,Insurance - Property & Casualty,Large,0.99,0.28,0.03,0.76,0.09,0.65
+22,2023-08-31,GL,qMO,Financial Services,Insurance - Life,Large,0.99,0.23,0.3,0.26,0.66,0.51
+23,2023-08-31,LLY,qMO,Healthcare,Drug Manufacturers - General,Large,0.99,0.06,0.82,0.81,0.01,0.3
+24,2023-08-31,CBOE,qMO,Financial Services,Financial Data & Stock Exchanges,Large,0.99,0.07,0.3,0.83,0.38,0.61
+25,2023-08-31,CRH,qMO,Basic Materials,Building Materials,Large,0.98,0.89,0.72,0.62,0.72,0.48
+26,2023-08-31,ETN,qMO,Industrials,Specialty Industrial Machinery,Large,0.98,0.28,0.62,0.64,0.2,0.34
+27,2023-08-31,MKL,qMO,Financial Services,Insurance - Property & Casualty,Large,0.98,0.3,0.19,0.85,0.03,0.98
+28,2023-08-31,MKL,qGrowth,Financial Services,Insurance - Property & Casualty,Large,0.98,0.3,0.19,0.85,0.03,0.98
+29,2023-08-31,ROST,qMO,Consumer Cyclical,Apparel Retail,Large,0.98,0.68,0.86,0.57,0.29,0.72
+30,2023-08-31,VMW,qMO,Technology,Software - Infrastructure,Large,0.98,0.4,0.98,0.8,0.22,0.59
+31,2023-08-31,VMW,qQuality,Technology,Software - Infrastructure,Large,0.98,0.4,0.98,0.8,0.22,0.59
+32,2023-08-31,KOF,qMO,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.97,0.75,0.71,0.9,0.41,0.06
+33,2023-08-31,KOF,qValue,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.97,0.75,0.71,0.9,0.41,0.06
+34,2023-08-31,NVDA,qMO,Technology,Semiconductors,Large,0.97,0.01,0.93,0.07,0.02,0.97
+35,2023-08-31,NVDA,qGrowth,Technology,Semiconductors,Large,0.97,0.01,0.93,0.07,0.02,0.97
+36,2023-08-31,PKX,qMO,Basic Materials,Steel,Large,0.97,1.0,0.16,0.33,0.27,0.19
+37,2023-08-31,PKX,qValue,Basic Materials,Steel,Large,0.97,1.0,0.16,0.33,0.27,0.19
+38,2023-08-31,TJX,qMO,Consumer Cyclical,Apparel Retail,Large,0.97,0.64,0.87,0.93,0.45,0.79
+39,2023-08-31,TCOM,qMO,Industrials,Travel Services,Large,0.97,0.88,0.1,0.21,0.74,0.05
+40,2023-08-31,PDD,qMO,Consumer Cyclical,Internet Retail,Large,0.97,0.92,0.98,0.26,0.15,0.8
+41,2023-08-31,PDD,qQuality,Consumer Cyclical,Internet Retail,Large,0.97,0.92,0.98,0.26,0.15,0.8
+42,2023-08-31,TRGP,qMO,Energy,Oil & Gas Midstream,Large,0.96,0.8,0.61,0.33,0.67,0.62
+43,2023-08-31,BKR,qMO,Energy,Oil & Gas Equipment & Services,Large,0.96,0.69,0.58,0.33,0.91,0.11
+44,2023-08-31,GE,qMO,Industrials,Specialty Industrial Machinery,Large,0.95,0.79,0.35,0.51,0.62,0.01
+45,2023-08-31,ING,qMO,Financial Services,Banks - Diversified,Large,0.95,0.34,0.14,0.59,0.94,0.05
+46,2023-08-31,MMC,qMO,Financial Services,Insurance Brokers,Large,0.95,0.06,0.38,0.93,0.41,0.72
+47,2023-08-31,SPLK,qMO,Technology,Software - Infrastructure,Large,0.95,0.14,0.56,0.06,0.09,0.75
+48,2023-08-31,ACGL,qMO,Financial Services,Insurance - Diversified,Large,0.94,0.26,0.29,0.65,0.68,0.98
+49,2023-08-31,ACGL,qGrowth,Financial Services,Insurance - Diversified,Large,0.94,0.26,0.29,0.65,0.68,0.98
+50,2023-08-31,WDAY,qMO,Technology,Software - Application,Large,0.94,0.1,0.54,0.17,0.15,0.85
+51,2023-08-31,WLK,qMO,Basic Materials,Specialty Chemicals,Large,0.94,0.91,0.71,0.32,0.61,0.9
+52,2023-09-30,AMAT,qMO,Technology,Semiconductor Equipment & Materials,Large,0.8,0.48,0.94,0.18,0.21,0.95
+53,2023-09-30,AMAT,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.8,0.48,0.94,0.18,0.21,0.95
+54,2023-09-30,MA,qMO,Financial Services,Credit Services,Large,0.88,0.01,0.51,0.89,0.11,0.91
+55,2023-09-30,META,qMO,Communication Services,Internet Content & Information,Large,0.83,0.56,0.99,0.11,0.08,0.91
+56,2023-09-30,META,qQuality,Communication Services,Internet Content & Information,Large,0.83,0.56,0.99,0.11,0.08,0.91
+57,2023-09-30,REGN,qMO,Healthcare,Biotechnology,Large,0.88,0.59,0.79,0.71,0.02,0.95
+58,2023-09-30,REGN,qGrowth,Healthcare,Biotechnology,Large,0.88,0.59,0.79,0.71,0.02,0.95
+59,2023-09-30,UBS,qMO,Financial Services,Banks - Diversified,Large,0.95,0.31,0.2,0.51,0.61,0.48
+60,2023-09-30,CX,qMO,Basic Materials,Building Materials,Large,1.0,0.72,0.3,0.29,0.96,0.79
+61,2023-09-30,CX,qSentiment,Basic Materials,Building Materials,Large,1.0,0.72,0.3,0.29,0.96,0.79
+62,2023-09-30,MPC,qMO,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.7,0.37,0.39,0.96
+63,2023-09-30,MPC,qValue,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.7,0.37,0.39,0.96
+64,2023-09-30,MPC,qGrowth,Energy,Oil & Gas Refining & Marketing,Large,1.0,0.95,0.7,0.37,0.39,0.96
+65,2023-09-30,NVO,qMO,Healthcare,Biotechnology,Large,1.0,0.84,0.99,0.78,0.09,0.78
+66,2023-09-30,NVO,qQuality,Healthcare,Biotechnology,Large,1.0,0.84,0.99,0.78,0.09,0.78
+67,2023-09-30,VMW,qMO,Technology,Software - Infrastructure,Large,1.0,0.42,0.98,0.79,0.22,0.6
+68,2023-09-30,VMW,qQuality,Technology,Software - Infrastructure,Large,1.0,0.42,0.98,0.79,0.22,0.6
+69,2023-09-30,FMX,qMO,Consumer Defensive,Beverages - Brewers,Large,0.99,0.99,0.57,0.85,0.43,0.63
+70,2023-09-30,FMX,qValue,Consumer Defensive,Beverages - Brewers,Large,0.99,0.99,0.57,0.85,0.43,0.63
+71,2023-09-30,LLY,qMO,Healthcare,Drug Manufacturers - General,Large,0.99,0.06,0.82,0.82,0.01,0.3
+72,2023-09-30,PKX,qMO,Basic Materials,Steel,Large,0.99,1.0,0.15,0.33,0.28,0.19
+73,2023-09-30,PKX,qValue,Basic Materials,Steel,Large,0.99,1.0,0.15,0.33,0.28,0.19
+74,2023-09-30,DELL,qMO,Technology,Computer Hardware,Large,0.99,0.63,0.25,0.24,0.35,0.82
+75,2023-09-30,CRH,qMO,Basic Materials,Building Materials,Large,0.98,0.89,0.72,0.63,0.72,0.47
+76,2023-09-30,FRFHF,qMO,Financial Services,Insurance - Property & Casualty,Large,0.98,0.29,0.03,0.77,0.12,0.64
+77,2023-09-30,FRFHF,qLV,Financial Services,Insurance - Property & Casualty,Large,0.98,0.29,0.03,0.77,0.12,0.64
+78,2023-09-30,ROST,qMO,Consumer Cyclical,Apparel Retail,Large,0.98,0.68,0.86,0.57,0.29,0.73
+79,2023-09-30,KOF,qMO,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.97,0.75,0.71,0.9,0.42,0.06
+80,2023-09-30,KOF,qValue,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.97,0.75,0.71,0.9,0.42,0.06
+81,2023-09-30,MKL,qMO,Financial Services,Insurance - Property & Casualty,Large,0.97,0.3,0.19,0.85,0.04,0.98
+82,2023-09-30,MKL,qGrowth,Financial Services,Insurance - Property & Casualty,Large,0.97,0.3,0.19,0.85,0.04,0.98
+83,2023-09-30,TJX,qMO,Consumer Cyclical,Apparel Retail,Large,0.97,0.64,0.87,0.93,0.42,0.8
+84,2023-09-30,PHG,qMO,Healthcare,Medical Devices,Large,0.97,0.46,0.04,0.27,0.78,0.02
+85,2023-09-30,PDD,qMO,Consumer Cyclical,Internet Retail,Large,0.97,0.92,0.98,0.26,0.11,0.8
+86,2023-09-30,PDD,qQuality,Consumer Cyclical,Internet Retail,Large,0.97,0.92,0.98,0.26,0.11,0.8
+87,2023-09-30,WLK,qMO,Basic Materials,Specialty Chemicals,Large,0.96,0.91,0.71,0.32,0.6,0.9
+88,2023-09-30,CBOE,qMO,Financial Services,Financial Data & Stock Exchanges,Large,0.96,0.07,0.3,0.84,0.51,0.61
+89,2023-09-30,BKR,qMO,Energy,Oil & Gas Equipment & Services,Large,0.96,0.69,0.58,0.33,0.88,0.11
+90,2023-09-30,ETN,qMO,Industrials,Specialty Industrial Machinery,Large,0.95,0.27,0.62,0.64,0.17,0.34
+91,2023-09-30,NVDA,qMO,Technology,Semiconductors,Large,0.95,0.01,0.92,0.07,0.02,0.97
+92,2023-09-30,NVDA,qGrowth,Technology,Semiconductors,Large,0.95,0.01,0.92,0.07,0.02,0.97
+93,2023-09-30,PCAR,qMO,Industrials,Farm & Heavy Construction Machinery,Large,0.95,0.87,0.45,0.68,0.71,0.72
+94,2023-09-30,SPLK,qMO,Technology,Software - Infrastructure,Large,0.95,0.15,0.56,0.06,0.08,0.74
+95,2023-09-30,SGEN,qMO,Healthcare,Biotechnology,Large,0.95,0.07,0.02,0.49,0.17,0.88
+96,2023-09-30,CMCSA,qMO,Communication Services,Telecom Services,Large,0.94,0.72,0.67,0.67,0.84,0.43
+97,2023-09-30,FLT,qMO,Technology,Software - Infrastructure,Large,0.94,0.44,0.86,0.25,0.1,0.87
+98,2023-09-30,GE,qMO,Industrials,Specialty Industrial Machinery,Large,0.94,0.79,0.35,0.51,0.62,0.01
+99,2023-09-30,ING,qMO,Financial Services,Banks - Diversified,Large,0.94,0.34,0.13,0.59,0.94,0.05
+100,2023-09-30,MMC,qMO,Financial Services,Insurance Brokers,Large,0.94,0.06,0.38,0.94,0.39,0.71
+101,2023-08-31,APA,qValue,Energy,Oil & Gas E&P,Large,0.83,0.89,0.94,0.06,0.75,0.23
+102,2023-08-31,CHT,qValue,Communication Services,Telecom Services,Large,0.47,0.98,0.91,1.0,0.96,0.09
+103,2023-08-31,CHT,qSentiment,Communication Services,Telecom Services,Large,0.47,0.98,0.91,1.0,0.96,0.09
+104,2023-08-31,CHT,qLV,Communication Services,Telecom Services,Large,0.47,0.98,0.91,1.0,0.96,0.09
+105,2023-08-31,COP,qValue,Energy,Oil & Gas E&P,Large,0.48,0.81,0.97,0.56,0.6,0.94
+106,2023-08-31,COP,qQuality,Energy,Oil & Gas E&P,Large,0.48,0.81,0.97,0.56,0.6,0.94
+107,2023-08-31,COP,qGrowth,Energy,Oil & Gas E&P,Large,0.48,0.81,0.97,0.56,0.6,0.94
+108,2023-08-31,EC,qValue,Energy,Oil & Gas Integrated,Large,0.89,1.0,0.6,0.35,0.95,0.92
+109,2023-08-31,EC,qSentiment,Energy,Oil & Gas Integrated,Large,0.89,1.0,0.6,0.35,0.95,0.92
+110,2023-08-31,ETR,qValue,Utilities,Utilities - Regulated Electric,Large,0.32,0.91,0.47,0.69,0.69,0.37
+111,2023-08-31,HMC,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.68,1.0,0.51,0.91,0.84,0.23
+112,2023-08-31,MGA,qValue,Consumer Cyclical,Auto Parts,Large,0.18,0.9,0.32,0.28,0.46,0.3
+113,2023-08-31,PSX,qValue,Energy,Oil & Gas Refining & Marketing,Large,0.92,0.93,0.53,0.46,0.6,0.82
+114,2023-08-31,SHEL,qValue,Energy,Oil & Gas Integrated,Large,0.63,0.97,0.83,0.88,0.84,0.69
+115,2023-08-31,SHEL,qLV,Energy,Oil & Gas Integrated,Large,0.63,0.97,0.83,0.88,0.84,0.69
+116,2023-08-31,TLK,qValue,Communication Services,Telecom Services,Large,0.31,0.99,0.86,0.95,0.95,0.28
+117,2023-08-31,TLK,qQuality,Communication Services,Telecom Services,Large,0.31,0.99,0.86,0.95,0.95,0.28
+118,2023-08-31,TM,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.68,1.0,0.37,0.94,0.31,0.22
+119,2023-08-31,VIV,qValue,Communication Services,Telecom Services,Large,0.38,0.98,0.98,0.66,0.98,0.19
+120,2023-08-31,VIV,qQuality,Communication Services,Telecom Services,Large,0.38,0.98,0.98,0.66,0.98,0.19
+121,2023-08-31,VIV,qSentiment,Communication Services,Telecom Services,Large,0.38,0.98,0.98,0.66,0.98,0.19
+122,2023-08-31,VLO,qValue,Energy,Oil & Gas Refining & Marketing,Large,0.91,0.98,0.65,0.28,0.34,0.93
+123,2023-08-31,VLO,qGrowth,Energy,Oil & Gas Refining & Marketing,Large,0.91,0.98,0.65,0.28,0.34,0.93
+124,2023-08-31,MT,qValue,Basic Materials,Steel,Large,0.41,0.99,0.57,0.41,0.85,0.55
+125,2023-08-31,UAL,qValue,Industrials,Airlines,Large,0.39,0.99,0.7,0.12,0.52,0.65
+126,2023-08-31,JD,qValue,Consumer Cyclical,Internet Retail,Large,0.11,0.99,0.48,0.28,0.43,0.55
+127,2023-08-31,STLA,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.88,0.99,0.81,0.55,0.85,0.61
+128,2023-08-31,GM,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.07,0.98,0.6,0.19,0.57,0.41
+129,2023-08-31,PBR,qValue,Energy,Oil & Gas Integrated,Large,0.69,0.98,0.93,0.57,0.91,0.35
+130,2023-08-31,EQNR,qValue,Energy,Oil & Gas Integrated,Large,0.11,0.97,0.92,0.65,0.83,0.99
+131,2023-08-31,EQNR,qQuality,Energy,Oil & Gas Integrated,Large,0.11,0.97,0.92,0.65,0.83,0.99
+132,2023-08-31,EQNR,qSentiment,Energy,Oil & Gas Integrated,Large,0.11,0.97,0.92,0.65,0.83,0.99
+133,2023-08-31,EQNR,qGrowth,Energy,Oil & Gas Integrated,Large,0.11,0.97,0.92,0.65,0.83,0.99
+134,2023-08-31,EQT,qValue,Energy,Oil & Gas E&P,Large,0.37,0.97,0.88,0.08,0.8,0.97
+135,2023-08-31,EQT,qGrowth,Energy,Oil & Gas E&P,Large,0.37,0.97,0.88,0.08,0.8,0.97
+136,2023-08-31,MOS,qValue,Basic Materials,Agricultural Inputs,Large,0.33,0.97,0.69,0.14,0.63,0.86
+137,2023-08-31,PAA,qValue,Energy,Oil & Gas Midstream,Large,0.1,0.97,0.46,0.34,0.71,0.3
+138,2023-08-31,VALE,qValue,Basic Materials,Other Industrial Metals & Mining,Large,0.05,0.97,0.87,0.52,0.86,0.56
+139,2023-08-31,ZTO,qValue,Industrials,Integrated Freight & Logistics,Large,0.32,0.97,0.66,0.6,0.71,0.64
+140,2023-08-31,BIDU,qValue,Communication Services,Internet Content & Information,Large,0.67,0.96,0.43,0.27,0.11,0.71
+141,2023-08-31,E,qValue,Energy,Oil & Gas Integrated,Large,0.82,0.96,0.69,0.76,0.91,0.88
+142,2023-08-31,OVV,qValue,Energy,Oil & Gas E&P,Large,0.25,0.96,0.76,0.03,0.81,0.89
+143,2023-08-31,VOD,qValue,Communication Services,Telecom Services,Large,0.07,0.96,0.88,0.69,0.98,0.26
+144,2023-08-31,VOD,qSentiment,Communication Services,Telecom Services,Large,0.07,0.96,0.88,0.69,0.98,0.26
+145,2023-08-31,ABEV,qValue,Consumer Defensive,Beverages - Brewers,Large,0.4,0.96,0.65,0.79,1.0,0.31
+146,2023-08-31,ABEV,qSentiment,Consumer Defensive,Beverages - Brewers,Large,0.4,0.96,0.65,0.79,1.0,0.31
+147,2023-08-31,BABA,qValue,Consumer Cyclical,Internet Retail,Large,0.58,0.96,0.68,0.37,0.31,0.78
+148,2023-08-31,ET,qValue,Energy,Oil & Gas Midstream,Large,0.71,0.95,0.42,0.86,0.94,0.22
+149,2023-08-31,ET,qSentiment,Energy,Oil & Gas Midstream,Large,0.71,0.95,0.42,0.86,0.94,0.22
+150,2023-08-31,LEN,qValue,Consumer Cyclical,Residential Construction,Large,0.83,0.95,0.67,0.41,0.22,0.97
+151,2023-08-31,LEN,qGrowth,Consumer Cyclical,Residential Construction,Large,0.83,0.95,0.67,0.41,0.22,0.97
+152,2023-08-31,NTES,qValue,Communication Services,Electronic Gaming & Multimedia,Large,0.79,0.95,0.95,0.55,0.31,0.96
+153,2023-08-31,NTES,qQuality,Communication Services,Electronic Gaming & Multimedia,Large,0.79,0.95,0.95,0.55,0.31,0.96
+154,2023-08-31,NTES,qGrowth,Communication Services,Electronic Gaming & Multimedia,Large,0.79,0.95,0.95,0.55,0.31,0.96
+155,2023-08-31,SU,qValue,Energy,Oil & Gas Integrated,Large,0.75,0.95,0.7,0.51,0.7,0.78
+156,2023-08-31,TEF,qValue,Communication Services,Telecom Services,Large,0.39,0.95,0.66,0.82,0.99,0.03
+157,2023-08-31,TEF,qSentiment,Communication Services,Telecom Services,Large,0.39,0.95,0.66,0.82,0.99,0.03
+158,2023-08-31,CNC,qValue,Healthcare,Healthcare Plans,Large,0.08,0.95,0.66,0.61,0.61,0.88
+159,2023-08-31,BP,qValue,Energy,Oil & Gas Integrated,Large,0.73,0.94,0.78,0.78,0.88,0.4
+160,2023-08-31,BP,qLV,Energy,Oil & Gas Integrated,Large,0.73,0.94,0.78,0.78,0.88,0.4
+161,2023-09-30,APA,qValue,Energy,Oil & Gas E&P,Large,0.84,0.89,0.94,0.07,0.76,0.24
+162,2023-09-30,CHT,qValue,Communication Services,Telecom Services,Large,0.37,0.98,0.9,1.0,0.95,0.09
+163,2023-09-30,CHT,qSentiment,Communication Services,Telecom Services,Large,0.37,0.98,0.9,1.0,0.95,0.09
+164,2023-09-30,CHT,qLV,Communication Services,Telecom Services,Large,0.37,0.98,0.9,1.0,0.95,0.09
+165,2023-09-30,COP,qValue,Energy,Oil & Gas E&P,Large,0.59,0.8,0.97,0.56,0.49,0.94
+166,2023-09-30,COP,qQuality,Energy,Oil & Gas E&P,Large,0.59,0.8,0.97,0.56,0.49,0.94
+167,2023-09-30,COP,qGrowth,Energy,Oil & Gas E&P,Large,0.59,0.8,0.97,0.56,0.49,0.94
+168,2023-09-30,EC,qValue,Energy,Oil & Gas Integrated,Large,0.8,1.0,0.6,0.35,0.95,0.92
+169,2023-09-30,EC,qSentiment,Energy,Oil & Gas Integrated,Large,0.8,1.0,0.6,0.35,0.95,0.92
+170,2023-09-30,ETR,qValue,Utilities,Utilities - Regulated Electric,Large,0.35,0.91,0.47,0.69,0.7,0.37
+171,2023-09-30,HMC,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.63,1.0,0.51,0.91,0.83,0.23
+172,2023-09-30,MGA,qValue,Consumer Cyclical,Auto Parts,Large,0.25,0.9,0.32,0.28,0.5,0.3
+173,2023-09-30,PSX,qValue,Energy,Oil & Gas Refining & Marketing,Large,0.91,0.93,0.53,0.45,0.58,0.82
+174,2023-09-30,SHEL,qValue,Energy,Oil & Gas Integrated,Large,0.6,0.97,0.83,0.88,0.83,0.69
+175,2023-09-30,SHEL,qLV,Energy,Oil & Gas Integrated,Large,0.6,0.97,0.83,0.88,0.83,0.69
+176,2023-09-30,TLK,qValue,Communication Services,Telecom Services,Large,0.3,0.99,0.86,0.95,0.95,0.28
+177,2023-09-30,TLK,qQuality,Communication Services,Telecom Services,Large,0.3,0.99,0.86,0.95,0.95,0.28
+178,2023-09-30,TM,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.64,1.0,0.37,0.94,0.29,0.22
+179,2023-09-30,VIV,qValue,Communication Services,Telecom Services,Large,0.38,0.98,0.98,0.65,0.98,0.19
+180,2023-09-30,VIV,qQuality,Communication Services,Telecom Services,Large,0.38,0.98,0.98,0.65,0.98,0.19
+181,2023-09-30,VIV,qSentiment,Communication Services,Telecom Services,Large,0.38,0.98,0.98,0.65,0.98,0.19
+182,2023-09-30,VLO,qValue,Energy,Oil & Gas Refining & Marketing,Large,0.9,0.98,0.65,0.28,0.37,0.93
+183,2023-09-30,VLO,qGrowth,Energy,Oil & Gas Refining & Marketing,Large,0.9,0.98,0.65,0.28,0.37,0.93
+184,2023-09-30,MT,qValue,Basic Materials,Steel,Large,0.38,0.99,0.57,0.41,0.86,0.54
+185,2023-09-30,UAL,qValue,Industrials,Airlines,Large,0.29,0.99,0.7,0.12,0.52,0.65
+186,2023-09-30,JD,qValue,Consumer Cyclical,Internet Retail,Large,0.06,0.99,0.48,0.28,0.45,0.55
+187,2023-09-30,STLA,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.91,0.99,0.81,0.55,0.86,0.61
+188,2023-09-30,GM,qValue,Consumer Cyclical,Auto Manufacturers,Large,0.04,0.98,0.6,0.19,0.61,0.4
+189,2023-09-30,PBR,qValue,Energy,Oil & Gas Integrated,Large,0.66,0.98,0.93,0.57,0.89,0.35
+190,2023-09-30,EQNR,qValue,Energy,Oil & Gas Integrated,Large,0.12,0.97,0.92,0.64,0.82,0.99
+191,2023-09-30,EQNR,qQuality,Energy,Oil & Gas Integrated,Large,0.12,0.97,0.92,0.64,0.82,0.99
+192,2023-09-30,EQNR,qSentiment,Energy,Oil & Gas Integrated,Large,0.12,0.97,0.92,0.64,0.82,0.99
+193,2023-09-30,EQNR,qGrowth,Energy,Oil & Gas Integrated,Large,0.12,0.97,0.92,0.64,0.82,0.99
+194,2023-09-30,MOS,qValue,Basic Materials,Agricultural Inputs,Large,0.26,0.97,0.69,0.13,0.63,0.86
+195,2023-09-30,PAA,qValue,Energy,Oil & Gas Midstream,Large,0.06,0.97,0.46,0.35,0.7,0.3
+196,2023-09-30,VALE,qValue,Basic Materials,Other Industrial Metals & Mining,Large,0.23,0.97,0.87,0.5,0.85,0.56
+197,2023-09-30,VOD,qValue,Communication Services,Telecom Services,Large,0.07,0.97,0.88,0.7,0.98,0.26
+198,2023-09-30,VOD,qSentiment,Communication Services,Telecom Services,Large,0.07,0.97,0.88,0.7,0.98,0.26
+199,2023-09-30,ZTO,qValue,Industrials,Integrated Freight & Logistics,Large,0.3,0.97,0.66,0.6,0.72,0.64
+200,2023-09-30,BIDU,qValue,Communication Services,Internet Content & Information,Large,0.72,0.96,0.43,0.27,0.12,0.71
+201,2023-09-30,E,qValue,Energy,Oil & Gas Integrated,Large,0.83,0.96,0.69,0.76,0.9,0.88
+202,2023-09-30,EQT,qValue,Energy,Oil & Gas E&P,Large,0.37,0.96,0.88,0.08,0.78,0.98
+203,2023-09-30,EQT,qGrowth,Energy,Oil & Gas E&P,Large,0.37,0.96,0.88,0.08,0.78,0.98
+204,2023-09-30,OVV,qValue,Energy,Oil & Gas E&P,Large,0.2,0.96,0.76,0.03,0.8,0.89
+205,2023-09-30,ABEV,qValue,Consumer Defensive,Beverages - Brewers,Large,0.28,0.96,0.65,0.79,0.99,0.31
+206,2023-09-30,ABEV,qSentiment,Consumer Defensive,Beverages - Brewers,Large,0.28,0.96,0.65,0.79,0.99,0.31
+207,2023-09-30,BABA,qValue,Consumer Cyclical,Internet Retail,Large,0.61,0.96,0.68,0.37,0.31,0.78
+208,2023-09-30,ET,qValue,Energy,Oil & Gas Midstream,Large,0.76,0.95,0.42,0.86,0.93,0.22
+209,2023-09-30,ET,qSentiment,Energy,Oil & Gas Midstream,Large,0.76,0.95,0.42,0.86,0.93,0.22
+210,2023-09-30,LEN,qValue,Consumer Cyclical,Residential Construction,Large,0.77,0.95,0.67,0.41,0.22,0.97
+211,2023-09-30,LEN,qGrowth,Consumer Cyclical,Residential Construction,Large,0.77,0.95,0.67,0.41,0.22,0.97
+212,2023-09-30,NTES,qValue,Communication Services,Electronic Gaming & Multimedia,Large,0.76,0.95,0.95,0.55,0.33,0.96
+213,2023-09-30,NTES,qQuality,Communication Services,Electronic Gaming & Multimedia,Large,0.76,0.95,0.95,0.55,0.33,0.96
+214,2023-09-30,NTES,qGrowth,Communication Services,Electronic Gaming & Multimedia,Large,0.76,0.95,0.95,0.55,0.33,0.96
+215,2023-09-30,SU,qValue,Energy,Oil & Gas Integrated,Large,0.76,0.95,0.7,0.51,0.7,0.78
+216,2023-09-30,TEF,qValue,Communication Services,Telecom Services,Large,0.55,0.95,0.65,0.82,0.98,0.03
+217,2023-09-30,TEF,qSentiment,Communication Services,Telecom Services,Large,0.55,0.95,0.65,0.82,0.98,0.03
+218,2023-09-30,CNC,qValue,Healthcare,Healthcare Plans,Large,0.11,0.95,0.66,0.61,0.56,0.89
+219,2023-09-30,BP,qValue,Energy,Oil & Gas Integrated,Large,0.72,0.94,0.78,0.77,0.85,0.4
+220,2023-09-30,BP,qLV,Energy,Oil & Gas Integrated,Large,0.72,0.94,0.78,0.77,0.85,0.4
+221,2023-09-30,CF,qValue,Basic Materials,Agricultural Inputs,Large,0.04,0.94,0.96,0.27,0.4,0.87
+222,2023-09-30,CF,qQuality,Basic Materials,Agricultural Inputs,Large,0.04,0.94,0.96,0.27,0.4,0.87
+223,2023-08-31,AAPL,qQuality,Technology,Consumer Electronics,Large,0.53,0.15,0.95,0.64,0.22,0.85
+224,2023-08-31,ABBV,qQuality,Healthcare,Drug Manufacturers - General,Large,0.57,0.65,0.99,0.96,0.48,0.75
+225,2023-08-31,ADSK,qQuality,Technology,Software - Application,Large,0.51,0.21,1.0,0.21,0.12,0.72
+226,2023-08-31,AKAM,qQuality,Technology,Software - Infrastructure,Large,0.84,0.47,0.88,0.34,0.26,0.82
+227,2023-08-31,BMY,qQuality,Healthcare,Drug Manufacturers - General,Large,0.31,0.75,0.93,0.98,0.82,0.91
+228,2023-08-31,BMY,qLV,Healthcare,Drug Manufacturers - General,Large,0.31,0.75,0.93,0.98,0.82,0.91
+229,2023-08-31,CHKP,qQuality,Technology,Software - Infrastructure,Large,0.57,0.44,0.97,0.72,0.37,0.54
+230,2023-08-31,CMG,qQuality,Consumer Cyclical,Restaurants,Large,0.36,0.19,0.91,0.37,0.01,0.96
+231,2023-08-31,CMG,qGrowth,Consumer Cyclical,Restaurants,Large,0.36,0.19,0.91,0.37,0.01,0.96
+232,2023-08-31,INFY,qQuality,Technology,Information Technology Services,Large,0.44,0.33,0.93,0.76,0.94,0.66
+233,2023-08-31,INFY,qSentiment,Technology,Information Technology Services,Large,0.44,0.33,0.93,0.76,0.94,0.66
+234,2023-08-31,INTU,qQuality,Technology,Software - Application,Large,0.9,0.13,0.92,0.28,0.03,0.89
+235,2023-08-31,ISRG,qQuality,Healthcare,Medical Instruments & Supplies,Large,0.64,0.06,0.82,0.46,0.07,0.83
+236,2023-08-31,MSFT,qQuality,Technology,Software - Infrastructure,Large,0.64,0.13,0.96,0.55,0.27,0.93
+237,2023-08-31,MSFT,qGrowth,Technology,Software - Infrastructure,Large,0.64,0.13,0.96,0.55,0.27,0.93
+238,2023-08-31,ORCL,qQuality,Technology,Software - Infrastructure,Large,0.7,0.2,0.79,0.78,0.41,0.86
+239,2023-08-31,PAYX,qQuality,Industrials,Staffing & Employment Services,Large,0.61,0.4,0.97,0.65,0.53,0.65
+240,2023-08-31,TSM,qQuality,Technology,Semiconductors,Large,0.44,0.66,0.99,0.48,0.57,0.94
+241,2023-08-31,TSM,qGrowth,Technology,Semiconductors,Large,0.44,0.66,0.99,0.48,0.57,0.94
+242,2023-08-31,TU,qQuality,Communication Services,Telecom Services,Large,0.09,0.77,0.76,0.93,0.93,0.19
+243,2023-08-31,SQM,qQuality,Basic Materials,Specialty Chemicals,Large,0.23,0.94,1.0,0.17,0.35,1.0
+244,2023-08-31,SQM,qGrowth,Basic Materials,Specialty Chemicals,Large,0.23,0.94,1.0,0.17,0.35,1.0
+245,2023-08-31,FTNT,qQuality,Technology,Software - Infrastructure,Large,0.33,0.2,1.0,0.16,0.26,0.92
+246,2023-08-31,ADBE,qQuality,Technology,Software - Infrastructure,Large,0.85,0.1,0.99,0.24,0.05,0.95
+247,2023-08-31,ADBE,qGrowth,Technology,Software - Infrastructure,Large,0.85,0.1,0.99,0.24,0.05,0.95
+248,2023-08-31,EOG,qQuality,Energy,Oil & Gas E&P,Large,0.45,0.81,0.99,0.43,0.52,0.93
+249,2023-08-31,EOG,qGrowth,Energy,Oil & Gas E&P,Large,0.45,0.81,0.99,0.43,0.52,0.93
+250,2023-08-31,CTRA,qQuality,Energy,Oil & Gas E&P,Large,0.54,0.93,0.98,0.25,0.95,0.76
+251,2023-08-31,CTRA,qSentiment,Energy,Oil & Gas E&P,Large,0.54,0.93,0.98,0.25,0.95,0.76
+252,2023-08-31,CTRA,qGrowth,Energy,Oil & Gas E&P,Large,0.54,0.93,0.98,0.25,0.95,0.76
+253,2023-08-31,PANW,qQuality,Technology,Software - Infrastructure,Large,0.57,0.15,0.98,0.15,0.05,0.73
+254,2023-08-31,GOOGL,qQuality,Communication Services,Internet Content & Information,Large,0.92,0.54,0.97,0.45,0.41,0.98
+255,2023-08-31,GOOGL,qGrowth,Communication Services,Internet Content & Information,Large,0.92,0.54,0.97,0.45,0.41,0.98
+256,2023-08-31,LRCX,qQuality,Technology,Semiconductor Equipment & Materials,Large,0.86,0.36,0.97,0.12,0.02,0.95
+257,2023-08-31,LRCX,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.86,0.36,0.97,0.12,0.02,0.95
+258,2023-08-31,MCHP,qQuality,Technology,Semiconductors,Large,0.32,0.47,0.97,0.17,0.39,0.98
+259,2023-08-31,MCHP,qGrowth,Technology,Semiconductors,Large,0.32,0.47,0.97,0.17,0.39,0.98
+260,2023-08-31,PXD,qQuality,Energy,Oil & Gas E&P,Large,0.56,0.79,0.97,0.4,0.45,0.97
+261,2023-08-31,PXD,qGrowth,Energy,Oil & Gas E&P,Large,0.56,0.79,0.97,0.4,0.45,0.97
+262,2023-08-31,MELI,qQuality,Consumer Cyclical,Internet Retail,Large,0.92,0.42,0.97,0.1,0.0,0.78
+263,2023-08-31,CF,qQuality,Basic Materials,Agricultural Inputs,Large,0.05,0.94,0.96,0.27,0.4,0.87
+264,2023-08-31,CSCO,qQuality,Technology,Communication Equipment,Large,0.85,0.46,0.96,0.87,0.58,0.6
+265,2023-08-31,EA,qQuality,Communication Services,Electronic Gaming & Multimedia,Large,0.41,0.55,0.96,0.69,0.54,0.71
+266,2023-08-31,SNPS,qQuality,Technology,Software - Infrastructure,Large,0.78,0.06,0.96,0.39,0.08,0.89
+267,2023-08-31,CDNS,qQuality,Technology,Software - Application,Large,0.69,0.05,0.96,0.38,0.17,0.86
+268,2023-08-31,ASML,qQuality,Technology,Semiconductor Equipment & Materials,Large,0.55,0.09,0.95,0.4,0.05,0.98
+269,2023-08-31,ASML,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.55,0.09,0.95,0.4,0.05,0.98
+270,2023-08-31,EXPD,qQuality,Industrials,Integrated Freight & Logistics,Large,0.37,0.79,0.95,0.41,0.3,0.89
+271,2023-08-31,LULU,qQuality,Consumer Cyclical,Apparel Retail,Large,0.76,0.21,0.95,0.15,0.14,0.98
+272,2023-08-31,LULU,qGrowth,Consumer Cyclical,Apparel Retail,Large,0.76,0.21,0.95,0.15,0.14,0.98
+273,2023-08-31,RELX,qQuality,Industrials,Specialty Business Services,Large,0.56,0.5,0.95,0.98,0.87,0.47
+274,2023-08-31,RELX,qLV,Industrials,Specialty Business Services,Large,0.56,0.5,0.95,0.98,0.87,0.47
+275,2023-09-30,AAPL,qQuality,Technology,Consumer Electronics,Large,0.52,0.15,0.95,0.64,0.23,0.85
+276,2023-09-30,ABBV,qQuality,Healthcare,Drug Manufacturers - General,Large,0.49,0.65,0.99,0.96,0.47,0.75
+277,2023-09-30,ABBV,qLV,Healthcare,Drug Manufacturers - General,Large,0.49,0.65,0.99,0.96,0.47,0.75
+278,2023-09-30,ADSK,qQuality,Technology,Software - Application,Large,0.6,0.22,1.0,0.21,0.11,0.72
+279,2023-09-30,AKAM,qQuality,Technology,Software - Infrastructure,Large,0.87,0.47,0.89,0.35,0.3,0.82
+280,2023-09-30,BMY,qQuality,Healthcare,Drug Manufacturers - General,Large,0.28,0.75,0.93,0.98,0.82,0.9
+281,2023-09-30,BMY,qLV,Healthcare,Drug Manufacturers - General,Large,0.28,0.75,0.93,0.98,0.82,0.9
+282,2023-09-30,CHKP,qQuality,Technology,Software - Infrastructure,Large,0.62,0.45,0.97,0.73,0.36,0.55
+283,2023-09-30,CMG,qQuality,Consumer Cyclical,Restaurants,Large,0.36,0.19,0.91,0.38,0.01,0.96
+284,2023-09-30,CMG,qGrowth,Consumer Cyclical,Restaurants,Large,0.36,0.19,0.91,0.38,0.01,0.96
+285,2023-09-30,INFY,qQuality,Technology,Information Technology Services,Large,0.42,0.33,0.93,0.76,0.94,0.66
+286,2023-09-30,INFY,qSentiment,Technology,Information Technology Services,Large,0.42,0.33,0.93,0.76,0.94,0.66
+287,2023-09-30,INTU,qQuality,Technology,Software - Application,Large,0.91,0.12,0.93,0.29,0.02,0.91
+288,2023-09-30,ISRG,qQuality,Healthcare,Medical Instruments & Supplies,Large,0.63,0.07,0.82,0.46,0.07,0.83
+289,2023-09-30,MSFT,qQuality,Technology,Software - Infrastructure,Large,0.6,0.13,0.96,0.56,0.26,0.93
+290,2023-09-30,MSFT,qGrowth,Technology,Software - Infrastructure,Large,0.6,0.13,0.96,0.56,0.26,0.93
+291,2023-09-30,ORCL,qQuality,Technology,Software - Infrastructure,Large,0.75,0.21,0.79,0.79,0.39,0.85
+292,2023-09-30,PAYX,qQuality,Industrials,Staffing & Employment Services,Large,0.63,0.4,0.97,0.65,0.54,0.65
+293,2023-09-30,TSM,qQuality,Technology,Semiconductors,Large,0.43,0.65,0.99,0.48,0.58,0.94
+294,2023-09-30,TSM,qGrowth,Technology,Semiconductors,Large,0.43,0.65,0.99,0.48,0.58,0.94
+295,2023-09-30,TU,qQuality,Communication Services,Telecom Services,Large,0.09,0.77,0.76,0.93,0.93,0.2
+296,2023-09-30,SQM,qQuality,Basic Materials,Specialty Chemicals,Large,0.17,0.94,1.0,0.17,0.36,1.0
+297,2023-09-30,SQM,qGrowth,Basic Materials,Specialty Chemicals,Large,0.17,0.94,1.0,0.17,0.36,1.0
+298,2023-09-30,FTNT,qQuality,Technology,Software - Infrastructure,Large,0.34,0.2,1.0,0.16,0.65,0.92
+299,2023-09-30,ADBE,qQuality,Technology,Software - Infrastructure,Large,0.86,0.1,0.99,0.24,0.04,0.95
+300,2023-09-30,ADBE,qGrowth,Technology,Software - Infrastructure,Large,0.86,0.1,0.99,0.24,0.04,0.95
+301,2023-09-30,PANW,qQuality,Technology,Software - Infrastructure,Large,0.48,0.11,0.99,0.16,0.05,0.73
+302,2023-09-30,CTRA,qQuality,Energy,Oil & Gas E&P,Large,0.45,0.93,0.98,0.25,0.95,0.76
+303,2023-09-30,CTRA,qSentiment,Energy,Oil & Gas E&P,Large,0.45,0.93,0.98,0.25,0.95,0.76
+304,2023-09-30,CTRA,qGrowth,Energy,Oil & Gas E&P,Large,0.45,0.93,0.98,0.25,0.95,0.76
+305,2023-09-30,EOG,qQuality,Energy,Oil & Gas E&P,Large,0.44,0.81,0.98,0.42,0.53,0.93
+306,2023-09-30,EOG,qGrowth,Energy,Oil & Gas E&P,Large,0.44,0.81,0.98,0.42,0.53,0.93
+307,2023-09-30,LRCX,qQuality,Technology,Semiconductor Equipment & Materials,Large,0.83,0.37,0.97,0.13,0.03,0.95
+308,2023-09-30,LRCX,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.83,0.37,0.97,0.13,0.03,0.95
+309,2023-09-30,MCHP,qQuality,Technology,Semiconductors,Large,0.35,0.47,0.97,0.17,0.48,0.98
+310,2023-09-30,MCHP,qGrowth,Technology,Semiconductors,Large,0.35,0.47,0.97,0.17,0.48,0.98
+311,2023-09-30,PXD,qQuality,Energy,Oil & Gas E&P,Large,0.67,0.79,0.97,0.4,0.43,0.97
+312,2023-09-30,PXD,qGrowth,Energy,Oil & Gas E&P,Large,0.67,0.79,0.97,0.4,0.43,0.97
+313,2023-09-30,MELI,qQuality,Consumer Cyclical,Internet Retail,Large,0.93,0.41,0.97,0.1,0.0,0.78
+314,2023-09-30,CSCO,qQuality,Technology,Communication Equipment,Large,0.88,0.46,0.96,0.87,0.55,0.6
+315,2023-09-30,EA,qQuality,Communication Services,Electronic Gaming & Multimedia,Large,0.42,0.55,0.96,0.69,0.57,0.71
+316,2023-09-30,GOOGL,qQuality,Communication Services,Internet Content & Information,Large,0.91,0.54,0.96,0.46,0.39,0.97
+317,2023-09-30,GOOGL,qGrowth,Communication Services,Internet Content & Information,Large,0.91,0.54,0.96,0.46,0.39,0.97
+318,2023-09-30,SNPS,qQuality,Technology,Software - Infrastructure,Large,0.75,0.06,0.96,0.39,0.06,0.89
+319,2023-09-30,CDNS,qQuality,Technology,Software - Application,Large,0.73,0.05,0.96,0.38,0.15,0.87
+320,2023-09-30,ASML,qQuality,Technology,Semiconductor Equipment & Materials,Large,0.46,0.09,0.95,0.4,0.05,0.98
+321,2023-09-30,ASML,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.46,0.09,0.95,0.4,0.05,0.98
+322,2023-09-30,EXPD,qQuality,Industrials,Integrated Freight & Logistics,Large,0.43,0.79,0.95,0.41,0.34,0.89
+323,2023-09-30,LULU,qQuality,Consumer Cyclical,Apparel Retail,Large,0.85,0.2,0.95,0.15,0.09,0.98
+324,2023-09-30,LULU,qGrowth,Consumer Cyclical,Apparel Retail,Large,0.85,0.2,0.95,0.15,0.09,0.98
+325,2023-09-30,RELX,qQuality,Industrials,Specialty Business Services,Large,0.61,0.5,0.95,0.98,0.87,0.46
+326,2023-09-30,RELX,qLV,Industrials,Specialty Business Services,Large,0.61,0.5,0.95,0.98,0.87,0.46
+327,2023-08-31,AEG,qSentiment,Financial Services,Insurance - Diversified,Large,0.81,0.19,0.0,0.5,0.97,0.01
+328,2023-08-31,ATVI,qSentiment,Communication Services,Electronic Gaming & Multimedia,Large,0.78,0.37,0.76,0.64,0.89,0.7
+329,2023-08-31,CSX,qSentiment,Industrials,Railroads,Large,0.21,0.77,0.71,0.67,0.85,0.6
+330,2023-08-31,FMS,qSentiment,Healthcare,Medical Care Facilities,Large,0.07,0.84,0.43,0.53,0.77,0.1
+331,2023-08-31,HBAN,qSentiment,Financial Services,Banks - Regional,Large,0.09,0.39,0.12,0.13,0.88,0.57
+332,2023-08-31,LYG,qSentiment,Financial Services,Banks - Regional,Large,0.43,0.41,0.24,0.59,1.0,0.26
+333,2023-08-31,MFG,qSentiment,Financial Services,Banks - Regional,Large,0.92,0.2,0.0,0.72,0.99,0.05
+334,2023-08-31,MUFG,qSentiment,Financial Services,Banks - Diversified,Large,0.85,0.47,0.15,0.63,0.96,0.07
+335,2023-08-31,NEE,qSentiment,Utilities,Utilities - Regulated Electric,Large,0.16,0.6,0.39,0.84,0.78,0.5
+336,2023-08-31,NEE,qLV,Utilities,Utilities - Regulated Electric,Large,0.16,0.6,0.39,0.84,0.78,0.5
+337,2023-08-31,PFE,qSentiment,Healthcare,Drug Manufacturers - General,Large,0.2,0.78,0.6,0.91,0.86,0.32
+338,2023-08-31,PPL,qSentiment,Utilities,Utilities - Regulated Electric,Large,0.23,0.61,0.11,0.78,0.89,0.06
+339,2023-08-31,RF,qSentiment,Financial Services,Banks - Regional,Large,0.3,0.36,0.08,0.18,0.75,0.58
+340,2023-08-31,SIRI,qSentiment,Communication Services,Entertainment,Large,0.04,0.57,0.41,0.31,0.93,0.69
+341,2023-08-31,WIT,qSentiment,Technology,Information Technology Services,Large,0.7,0.7,0.61,0.86,1.0,0.69
+342,2023-08-31,BBD,qSentiment,Financial Services,Banks - Regional,Large,0.15,0.46,0.2,0.48,0.99,0.04
+343,2023-08-31,ERIC,qSentiment,Technology,Communication Equipment,Large,0.03,0.76,0.65,0.38,0.99,0.11
+344,2023-08-31,NMR,qSentiment,Financial Services,Capital Markets,Large,0.63,0.47,0.01,0.79,0.99,0.17
+345,2023-08-31,NOK,qSentiment,Technology,Communication Equipment,Large,0.03,0.58,0.23,0.54,0.99,0.08
+346,2023-08-31,ORAN,qSentiment,Communication Services,Telecom Services,Large,0.47,0.91,0.55,0.99,0.99,0.1
+347,2023-08-31,ORAN,qLV,Communication Services,Telecom Services,Large,0.47,0.91,0.55,0.99,0.99,0.1
+348,2023-08-31,BCS,qSentiment,Financial Services,Banks - Diversified,Large,0.27,0.43,0.03,0.43,0.98,0.14
+349,2023-08-31,ITUB,qSentiment,Financial Services,Banks - Regional,Large,0.6,0.46,0.36,0.46,0.98,0.33
+350,2023-08-31,MPLX,qSentiment,Energy,Oil & Gas Midstream,Large,0.62,0.81,0.67,0.98,0.98,0.83
+351,2023-08-31,MPLX,qLV,Energy,Oil & Gas Midstream,Large,0.62,0.81,0.67,0.98,0.98,0.83
+352,2023-08-31,DB,qSentiment,Financial Services,Banks - Regional,Large,0.68,0.44,0.03,0.39,0.97,0.0
+353,2023-08-31,EPD,qSentiment,Energy,Oil & Gas Midstream,Large,0.46,0.82,0.41,0.99,0.97,0.68
+354,2023-08-31,EPD,qLV,Energy,Oil & Gas Midstream,Large,0.46,0.82,0.41,0.99,0.97,0.68
+355,2023-08-31,KMI,qSentiment,Energy,Oil & Gas Midstream,Large,0.37,0.75,0.46,0.81,0.97,0.11
+356,2023-08-31,NWG,qSentiment,Financial Services,Banks - Diversified,Large,0.33,0.41,0.05,0.59,0.97,0.58
+357,2023-08-31,KDP,qSentiment,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.42,0.47,0.33,0.92,0.96,0.06
+358,2023-08-31,SMFG,qSentiment,Financial Services,Banks - Diversified,Large,0.82,0.48,0.02,0.71,0.96,0.06
+359,2023-08-31,NI,qSentiment,Utilities,Utilities - Regulated Gas,Large,0.49,0.82,0.46,0.65,0.95,0.18
+360,2023-09-30,AEG,qSentiment,Financial Services,Insurance - Diversified,Large,0.81,0.19,0.0,0.5,0.97,0.01
+361,2023-09-30,ATVI,qSentiment,Communication Services,Electronic Gaming & Multimedia,Large,0.76,0.38,0.76,0.64,0.87,0.7
+362,2023-09-30,CSX,qSentiment,Industrials,Railroads,Large,0.25,0.76,0.71,0.65,0.91,0.6
+363,2023-09-30,FMS,qSentiment,Healthcare,Medical Care Facilities,Large,0.07,0.84,0.43,0.53,0.77,0.1
+364,2023-09-30,HBAN,qSentiment,Financial Services,Banks - Regional,Large,0.08,0.39,0.12,0.14,0.88,0.57
+365,2023-09-30,KEY,qSentiment,Financial Services,Banks - Regional,Large,0.03,0.4,0.22,0.03,0.91,0.49
+366,2023-09-30,LYG,qSentiment,Financial Services,Banks - Regional,Large,0.39,0.42,0.24,0.59,1.0,0.26
+367,2023-09-30,MFG,qSentiment,Financial Services,Banks - Regional,Large,0.89,0.2,0.0,0.72,0.99,0.05
+368,2023-09-30,MUFG,qSentiment,Financial Services,Banks - Diversified,Large,0.79,0.47,0.15,0.62,0.96,0.07
+369,2023-09-30,NEE,qSentiment,Utilities,Utilities - Regulated Electric,Large,0.19,0.6,0.39,0.84,0.82,0.5
+370,2023-09-30,NEE,qLV,Utilities,Utilities - Regulated Electric,Large,0.19,0.6,0.39,0.84,0.82,0.5
+371,2023-09-30,PFE,qSentiment,Healthcare,Drug Manufacturers - General,Large,0.17,0.78,0.6,0.91,0.87,0.32
+372,2023-09-30,PPL,qSentiment,Utilities,Utilities - Regulated Electric,Large,0.3,0.61,0.11,0.78,0.89,0.06
+373,2023-09-30,RF,qSentiment,Financial Services,Banks - Regional,Large,0.32,0.35,0.08,0.19,0.75,0.58
+374,2023-09-30,SIRI,qSentiment,Communication Services,Entertainment,Large,0.03,0.56,0.41,0.31,0.94,0.69
+375,2023-09-30,WIT,qSentiment,Technology,Information Technology Services,Large,0.69,0.7,0.61,0.85,1.0,0.69
+376,2023-09-30,BBD,qSentiment,Financial Services,Banks - Regional,Large,0.13,0.46,0.2,0.48,1.0,0.04
+377,2023-09-30,ERIC,qSentiment,Technology,Communication Equipment,Large,0.07,0.76,0.65,0.38,0.99,0.11
+378,2023-09-30,NMR,qSentiment,Financial Services,Capital Markets,Large,0.65,0.48,0.01,0.78,0.99,0.17
+379,2023-09-30,NOK,qSentiment,Technology,Communication Equipment,Large,0.05,0.58,0.23,0.54,0.99,0.08
+380,2023-09-30,ORAN,qSentiment,Communication Services,Telecom Services,Large,0.51,0.91,0.55,0.99,0.99,0.1
+381,2023-09-30,ORAN,qLV,Communication Services,Telecom Services,Large,0.51,0.91,0.55,0.99,0.99,0.1
+382,2023-09-30,MPLX,qSentiment,Energy,Oil & Gas Midstream,Large,0.58,0.82,0.67,0.98,0.99,0.83
+383,2023-09-30,MPLX,qLV,Energy,Oil & Gas Midstream,Large,0.58,0.82,0.67,0.98,0.99,0.83
+384,2023-09-30,BCS,qSentiment,Financial Services,Banks - Diversified,Large,0.21,0.44,0.03,0.43,0.98,0.14
+385,2023-09-30,ITUB,qSentiment,Financial Services,Banks - Regional,Large,0.53,0.46,0.36,0.46,0.98,0.33
+386,2023-09-30,DB,qSentiment,Financial Services,Banks - Regional,Large,0.68,0.44,0.02,0.39,0.97,0.0
+387,2023-09-30,EPD,qSentiment,Energy,Oil & Gas Midstream,Large,0.41,0.82,0.41,0.99,0.97,0.68
+388,2023-09-30,EPD,qLV,Energy,Oil & Gas Midstream,Large,0.41,0.82,0.41,0.99,0.97,0.68
+389,2023-09-30,KDP,qSentiment,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.39,0.47,0.33,0.92,0.97,0.06
+390,2023-09-30,KMI,qSentiment,Energy,Oil & Gas Midstream,Large,0.37,0.76,0.47,0.81,0.97,0.11
+391,2023-09-30,NWG,qSentiment,Financial Services,Banks - Diversified,Large,0.27,0.41,0.05,0.58,0.97,0.58
+392,2023-09-30,VTRS,qSentiment,Healthcare,Drug Manufacturers - Specialty & Generic,Large,0.67,0.94,0.4,0.47,0.96,0.08
+393,2023-09-30,EXC,qSentiment,Utilities,Utilities - Regulated Electric,Large,0.67,0.7,0.22,0.79,0.95,0.02
+394,2023-08-31,AZN,qLV,Healthcare,Drug Manufacturers - General,Large,0.41,0.44,0.73,0.92,0.74,0.71
+395,2023-08-31,BCE,qLV,Communication Services,Telecom Services,Large,0.12,0.83,0.69,0.97,0.81,0.09
+396,2023-08-31,BMO,qLV,Financial Services,Banks - Diversified,Large,0.14,0.39,0.2,0.86,0.42,0.22
+397,2023-08-31,BNS,qLV,Financial Services,Banks - Diversified,Large,0.15,0.41,0.22,0.86,0.74,0.1
+398,2023-08-31,CM,qLV,Financial Services,Banks - Diversified,Large,0.18,0.41,0.16,0.78,0.69,0.12
+399,2023-08-31,CNI,qLV,Industrials,Railroads,Large,0.15,0.8,0.78,0.9,0.45,0.53
+400,2023-08-31,COST,qLV,Consumer Defensive,Discount Stores,Large,0.71,0.51,0.8,0.85,0.07,0.82
+401,2023-08-31,CVX,qLV,Energy,Oil & Gas Integrated,Large,0.32,0.82,0.8,0.82,0.57,0.79
+402,2023-08-31,D,qLV,Utilities,Utilities - Regulated Electric,Large,0.06,0.82,0.4,0.77,0.79,0.24
+403,2023-08-31,DEO,qLV,Consumer Defensive,Beverages - Wineries & Distilleries,Large,0.52,0.5,0.9,0.98,0.42,0.61
+404,2023-08-31,DUK,qLV,Utilities,Utilities - Regulated Electric,Large,0.5,0.6,0.29,0.95,0.62,0.08
+405,2023-08-31,ED,qLV,Utilities,Utilities - Regulated Electric,Large,0.59,0.84,0.3,0.89,0.76,0.25
+406,2023-08-31,ENB,qLV,Energy,Oil & Gas Midstream,Large,0.13,0.86,0.52,0.91,0.8,0.21
+407,2023-08-31,GIS,qLV,Consumer Defensive,Packaged Foods,Large,0.15,0.69,0.58,0.89,0.45,0.21
+408,2023-08-31,GSK,qLV,Healthcare,Drug Manufacturers - General,Large,0.67,0.69,0.63,0.97,0.92,0.17
+409,2023-08-31,HSY,qLV,Consumer Defensive,Confectioners,Large,0.26,0.58,0.83,0.95,0.19,0.66
+410,2023-08-31,JNJ,qLV,Healthcare,Drug Manufacturers - General,Large,0.4,0.35,0.81,0.98,0.24,0.46
+411,2023-08-31,K,qLV,Consumer Defensive,Packaged Foods,Large,0.17,0.68,0.52,0.88,0.55,0.13
+412,2023-08-31,MCD,qLV,Consumer Cyclical,Restaurants,Large,0.56,0.2,0.39,0.99,0.28,0.37
+413,2023-08-31,NGG,qLV,Utilities,Utilities - Regulated Electric,Large,0.47,0.85,0.47,0.96,0.76,0.34
+414,2023-08-31,NVS,qLV,Healthcare,Drug Manufacturers - General,Large,0.72,0.63,0.91,0.98,0.76,0.17
+415,2023-08-31,PEP,qLV,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.61,0.53,0.67,1.0,0.31,0.49
+416,2023-08-31,PG,qLV,Consumer Defensive,Household & Personal Products,Large,0.7,0.47,0.84,0.99,0.5,0.34
+417,2023-08-31,PM,qLV,Consumer Defensive,Tobacco,Large,0.42,0.41,0.34,0.98,0.65,0.07
+418,2023-08-31,RY,qLV,Financial Services,Banks - Diversified,Large,0.29,0.35,0.25,0.97,0.38,0.46
+419,2023-08-31,SNN,qLV,Healthcare,Medical Devices,Large,0.24,0.52,0.4,0.78,0.84,0.08
+420,2023-08-31,SO,qLV,Utilities,Utilities - Regulated Electric,Large,0.45,0.66,0.3,0.95,0.85,0.23
+421,2023-08-31,TD,qLV,Financial Services,Banks - Diversified,Large,0.27,0.38,0.05,0.9,0.54,0.33
+422,2023-08-31,TRI,qLV,Industrials,Specialty Business Services,Large,0.29,0.42,0.75,0.94,0.45,0.28
+423,2023-08-31,WM,qLV,Industrials,Waste Management,Large,0.25,0.59,0.73,0.97,0.63,0.51
+424,2023-08-31,WMT,qLV,Consumer Defensive,Discount Stores,Large,0.81,0.7,0.65,0.99,0.52,0.63
+425,2023-08-31,XOM,qLV,Energy,Oil & Gas Integrated,Large,0.62,0.85,0.84,0.75,0.53,0.79
+426,2023-08-31,KO,qLV,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.53,0.5,0.72,1.0,0.9,0.42
+427,2023-08-31,UL,qLV,Consumer Defensive,Household & Personal Products,Large,0.76,0.78,0.79,1.0,0.85,0.49
+428,2023-08-31,BTI,qLV,Consumer Defensive,Tobacco,Large,0.2,0.85,0.65,0.99,0.89,0.12
+429,2023-08-31,IBN,qLV,Financial Services,Banks - Regional,Large,0.65,0.46,0.1,0.97,0.93,0.38
+430,2023-08-31,LMT,qLV,Industrials,Aerospace & Defense,Large,0.48,0.76,0.64,0.97,0.34,0.67
+431,2023-08-31,MO,qLV,Consumer Defensive,Tobacco,Large,0.58,0.63,0.59,0.97,0.84,0.14
+432,2023-08-31,MRK,qLV,Healthcare,Drug Manufacturers - General,Large,0.8,0.35,0.79,0.97,0.51,0.6
+433,2023-09-30,AZN,qLV,Healthcare,Drug Manufacturers - General,Large,0.36,0.44,0.73,0.92,0.73,0.7
+434,2023-09-30,BCE,qLV,Communication Services,Telecom Services,Large,0.22,0.84,0.69,0.97,0.81,0.09
+435,2023-09-30,BMO,qLV,Financial Services,Banks - Diversified,Large,0.1,0.39,0.2,0.86,0.43,0.22
+436,2023-09-30,BNS,qLV,Financial Services,Banks - Diversified,Large,0.14,0.41,0.22,0.86,0.74,0.1
+437,2023-09-30,CM,qLV,Financial Services,Banks - Diversified,Large,0.15,0.41,0.16,0.78,0.69,0.12
+438,2023-09-30,CNI,qLV,Industrials,Railroads,Large,0.19,0.79,0.78,0.9,0.45,0.53
+439,2023-09-30,COST,qLV,Consumer Defensive,Discount Stores,Large,0.7,0.51,0.8,0.85,0.07,0.82
+440,2023-09-30,CVX,qLV,Energy,Oil & Gas Integrated,Large,0.31,0.81,0.8,0.8,0.52,0.79
+441,2023-09-30,D,qLV,Utilities,Utilities - Regulated Electric,Large,0.11,0.82,0.4,0.8,0.82,0.24
+442,2023-09-30,DEO,qLV,Consumer Defensive,Beverages - Wineries & Distilleries,Large,0.5,0.5,0.9,0.98,0.38,0.6
+443,2023-09-30,DUK,qLV,Utilities,Utilities - Regulated Electric,Large,0.51,0.6,0.29,0.95,0.58,0.08
+444,2023-09-30,ED,qLV,Utilities,Utilities - Regulated Electric,Large,0.58,0.84,0.3,0.89,0.75,0.25
+445,2023-09-30,ENB,qLV,Energy,Oil & Gas Midstream,Large,0.13,0.86,0.52,0.91,0.8,0.21
+446,2023-09-30,GIS,qLV,Consumer Defensive,Packaged Foods,Large,0.18,0.69,0.58,0.88,0.45,0.21
+447,2023-09-30,GSK,qLV,Healthcare,Drug Manufacturers - General,Large,0.65,0.7,0.63,0.97,0.92,0.16
+448,2023-09-30,HSY,qLV,Consumer Defensive,Confectioners,Large,0.3,0.58,0.83,0.95,0.21,0.66
+449,2023-09-30,JNJ,qLV,Healthcare,Drug Manufacturers - General,Large,0.28,0.36,0.81,0.98,0.22,0.46
+450,2023-09-30,K,qLV,Consumer Defensive,Packaged Foods,Large,0.2,0.68,0.52,0.88,0.59,0.13
+451,2023-09-30,MCD,qLV,Consumer Cyclical,Restaurants,Large,0.53,0.21,0.39,0.99,0.3,0.36
+452,2023-09-30,NGG,qLV,Utilities,Utilities - Regulated Electric,Large,0.63,0.85,0.47,0.96,0.76,0.34
+453,2023-09-30,NVS,qLV,Healthcare,Drug Manufacturers - General,Large,0.7,0.63,0.91,0.98,0.74,0.18
+454,2023-09-30,PEP,qLV,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.57,0.53,0.67,0.99,0.3,0.48
+455,2023-09-30,PG,qLV,Consumer Defensive,Household & Personal Products,Large,0.7,0.47,0.84,0.99,0.51,0.33
+456,2023-09-30,PM,qLV,Consumer Defensive,Tobacco,Large,0.47,0.42,0.34,0.98,0.66,0.07
+457,2023-09-30,RY,qLV,Financial Services,Banks - Diversified,Large,0.14,0.35,0.25,0.97,0.38,0.45
+458,2023-09-30,SNN,qLV,Healthcare,Medical Devices,Large,0.24,0.52,0.4,0.77,0.84,0.08
+459,2023-09-30,SO,qLV,Utilities,Utilities - Regulated Electric,Large,0.53,0.66,0.3,0.95,0.83,0.23
+460,2023-09-30,TD,qLV,Financial Services,Banks - Diversified,Large,0.13,0.38,0.05,0.89,0.55,0.32
+461,2023-09-30,TRI,qLV,Industrials,Specialty Business Services,Large,0.33,0.42,0.75,0.94,0.45,0.28
+462,2023-09-30,WM,qLV,Industrials,Waste Management,Large,0.2,0.59,0.73,0.97,0.61,0.5
+463,2023-09-30,WMT,qLV,Consumer Defensive,Discount Stores,Large,0.82,0.74,0.66,1.0,0.5,0.66
+464,2023-09-30,KO,qLV,Consumer Defensive,Beverages - Non-Alcoholic,Large,0.56,0.5,0.72,1.0,0.89,0.41
+465,2023-09-30,UL,qLV,Consumer Defensive,Household & Personal Products,Large,0.72,0.78,0.8,1.0,0.85,0.5
+466,2023-09-30,BTI,qLV,Consumer Defensive,Tobacco,Large,0.22,0.85,0.65,0.99,0.88,0.12
+467,2023-09-30,IBN,qLV,Financial Services,Banks - Regional,Large,0.62,0.47,0.1,0.97,0.93,0.38
+468,2023-09-30,LMT,qLV,Industrials,Aerospace & Defense,Large,0.42,0.76,0.64,0.97,0.34,0.67
+469,2023-09-30,MO,qLV,Consumer Defensive,Tobacco,Large,0.57,0.64,0.59,0.97,0.85,0.14
+470,2023-09-30,MRK,qLV,Healthcare,Drug Manufacturers - General,Large,0.72,0.35,0.78,0.97,0.52,0.59
+471,2023-08-31,BKNG,qGrowth,Industrials,Travel Services,Large,0.9,0.4,0.69,0.41,0.0,0.92
+472,2023-08-31,CB,qGrowth,Financial Services,Insurance - Property & Casualty,Large,0.62,0.27,0.21,0.9,0.72,0.81
+473,2023-08-31,COF,qGrowth,Financial Services,Credit Services,Large,0.12,0.39,0.22,0.18,0.2,0.78
+474,2023-08-31,CRM,qGrowth,Technology,Software - Application,Large,0.83,0.16,0.91,0.25,0.22,0.92
+475,2023-08-31,DE,qGrowth,Industrials,Farm & Heavy Construction Machinery,Large,0.23,0.72,0.39,0.63,0.02,0.96
+476,2023-08-31,HDB,qGrowth,Financial Services,Banks - Regional,Large,0.35,0.46,0.11,0.91,0.54,0.93
+477,2023-08-31,ULTA,qGrowth,Consumer Cyclical,Specialty Retail,Large,0.37,0.73,0.82,0.42,0.03,0.87
+478,2023-08-31,LNG,qGrowth,Energy,Oil & Gas Midstream,Large,0.63,0.92,0.83,0.47,0.47,1.0
+479,2023-08-31,VRTX,qGrowth,Healthcare,Biotechnology,Large,0.74,0.49,0.95,0.85,0.33,1.0
+480,2023-08-31,KLAC,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.79,0.29,0.89,0.16,0.07,0.99
+481,2023-08-31,NFLX,qGrowth,Communication Services,Entertainment,Large,0.66,0.14,0.66,0.13,0.05,0.99
+482,2023-08-31,DHI,qGrowth,Consumer Cyclical,Residential Construction,Large,0.87,0.82,0.53,0.38,0.23,0.99
+483,2023-08-31,ALB,qGrowth,Basic Materials,Specialty Chemicals,Large,0.04,0.87,0.77,0.08,0.16,0.99
+484,2023-08-31,SHOP,qGrowth,Technology,Software - Application,Large,0.89,0.01,0.04,0.06,0.35,0.99
+485,2023-08-31,CQP,qGrowth,Energy,Oil & Gas Midstream,Large,0.44,0.7,0.33,0.59,0.71,0.97
+486,2023-08-31,NUE,qGrowth,Basic Materials,Steel,Large,0.86,0.88,0.93,0.21,0.46,0.97
+487,2023-08-31,FANG,qGrowth,Energy,Oil & Gas E&P,Large,0.74,0.87,0.9,0.26,0.63,0.96
+488,2023-08-31,AMZN,qGrowth,Consumer Cyclical,Internet Retail,Large,0.73,0.25,0.49,0.28,0.32,0.95
+489,2023-08-31,IMO,qGrowth,Energy,Oil & Gas Integrated,Large,0.77,0.91,0.63,0.53,0.65,0.95
+490,2023-08-31,CI,qGrowth,Healthcare,Healthcare Plans,Large,0.31,0.88,0.62,0.73,0.16,0.94
+491,2023-08-31,CNQ,qGrowth,Energy,Oil & Gas E&P,Large,0.87,0.88,0.9,0.54,0.61,0.94
+492,2023-08-31,HUM,qGrowth,Healthcare,Healthcare Plans,Large,0.28,0.9,0.86,0.6,0.09,0.94
+493,2023-08-31,STM,qGrowth,Technology,Semiconductors,Large,0.53,0.62,0.91,0.3,0.59,0.94
+494,2023-08-31,NXPI,qGrowth,Technology,Semiconductors,Large,0.54,0.39,0.82,0.18,0.11,0.93
+495,2023-08-31,ORLY,qGrowth,Consumer Cyclical,Specialty Retail,Large,0.73,0.38,0.63,0.84,0.1,0.93
+496,2023-09-30,BKNG,qGrowth,Industrials,Travel Services,Large,0.9,0.4,0.69,0.42,0.0,0.92
+497,2023-09-30,CB,qGrowth,Financial Services,Insurance - Property & Casualty,Large,0.59,0.27,0.21,0.9,0.71,0.81
+498,2023-09-30,COF,qGrowth,Financial Services,Credit Services,Large,0.1,0.39,0.22,0.18,0.2,0.78
+499,2023-09-30,CRM,qGrowth,Technology,Software - Application,Large,0.84,0.16,0.91,0.25,0.2,0.92
+500,2023-09-30,DE,qGrowth,Industrials,Farm & Heavy Construction Machinery,Large,0.36,0.71,0.39,0.63,0.03,0.96
+501,2023-09-30,HDB,qGrowth,Financial Services,Banks - Regional,Large,0.28,0.47,0.11,0.91,0.54,0.93
+502,2023-09-30,ULTA,qGrowth,Consumer Cyclical,Specialty Retail,Large,0.23,0.72,0.82,0.42,0.03,0.87
+503,2023-09-30,LNG,qGrowth,Energy,Oil & Gas Midstream,Large,0.47,0.93,0.83,0.47,0.44,1.0
+504,2023-09-30,VRTX,qGrowth,Healthcare,Biotechnology,Large,0.78,0.49,0.95,0.85,0.31,1.0
+505,2023-09-30,KLAC,qGrowth,Technology,Semiconductor Equipment & Materials,Large,0.69,0.29,0.89,0.17,0.07,0.99
+506,2023-09-30,NFLX,qGrowth,Communication Services,Entertainment,Large,0.68,0.14,0.66,0.14,0.05,0.99
+507,2023-09-30,DHI,qGrowth,Consumer Cyclical,Residential Construction,Large,0.79,0.81,0.54,0.39,0.23,0.99
+508,2023-09-30,ALB,qGrowth,Basic Materials,Specialty Chemicals,Large,0.02,0.87,0.77,0.08,0.15,0.99
+509,2023-09-30,SHOP,qGrowth,Technology,Software - Application,Large,0.9,0.01,0.04,0.06,0.28,0.99
+510,2023-09-30,ACGL,qGrowth,Financial Services,Insurance - Diversified,Large,0.9,0.25,0.29,0.64,0.68,0.98
+511,2023-09-30,CQP,qGrowth,Energy,Oil & Gas Midstream,Large,0.38,0.69,0.33,0.58,0.66,0.97
+512,2023-09-30,NUE,qGrowth,Basic Materials,Steel,Large,0.76,0.88,0.93,0.22,0.44,0.97
+513,2023-09-30,FANG,qGrowth,Energy,Oil & Gas E&P,Large,0.71,0.87,0.9,0.26,0.51,0.96
+514,2023-09-30,AMZN,qGrowth,Consumer Cyclical,Internet Retail,Large,0.71,0.26,0.49,0.28,0.35,0.95
+515,2023-09-30,IMO,qGrowth,Energy,Oil & Gas Integrated,Large,0.68,0.91,0.63,0.53,0.64,0.95
+516,2023-09-30,CI,qGrowth,Healthcare,Healthcare Plans,Large,0.26,0.89,0.62,0.72,0.16,0.94
+517,2023-09-30,CNQ,qGrowth,Energy,Oil & Gas E&P,Large,0.87,0.89,0.9,0.53,0.57,0.94
+518,2023-09-30,HUM,qGrowth,Healthcare,Healthcare Plans,Large,0.24,0.9,0.86,0.6,0.07,0.94
+519,2023-09-30,STM,qGrowth,Technology,Semiconductors,Large,0.55,0.62,0.91,0.3,0.68,0.94
+520,2023-09-30,NXPI,qGrowth,Technology,Semiconductors,Large,0.54,0.38,0.82,0.18,0.12,0.93
+521,2023-09-30,ORLY,qGrowth,Consumer Cyclical,Specialty Retail,Large,0.72,0.37,0.63,0.84,0.11,0.93
